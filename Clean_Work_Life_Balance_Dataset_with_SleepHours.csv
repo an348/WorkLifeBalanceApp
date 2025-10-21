@@ -1,0 +1,1001 @@
+Age,Gender,Work hours,Screen time,Sleep time,Exercise frequency,Mood Stability,Fatigue level,Headache,Social Connections,Work Stress,Personal Time Satisfaction,Overall_Balance_Score,Sleep_Hours
+30 - 45,Female,9 - 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Weak,Low,Poor,0,5.374949844047459
+45 - 60,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Exhausted,Sometimes,Moderate,High,Good,0,6.308317388987497
+16 - 21,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes,Strong,High,Poor,2,7.749080237694725
+30 - 45,Male,More than 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Fresh,Never,Weak,Low,Average,1,6.5238143619189914
+30 - 45,Male,More than 10 hours,Less than 2 hours,More than 8 hours,Daily,Neutral,Fresh,Never,Weak,Low,Good,2,8.901428612819831
+45 - 60,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Strong,Low,Average,0,5.196510934046601
+16 - 21,Female,More than 10 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Fresh,Never,Strong,Low,Average,1,7.088933518305359
+16 - 21,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently,Strong,Low,Good,2,8.46398788362281
+30 - 45,Female,Less than 7 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Often tired,Never,Weak,Low,Average,1,7.3456653899288655
+22 - 30,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Fresh,Frequently,Strong,Medium,Average,2,8.197316968394073
+30 - 45,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,Never,Unstable,Exhausted,Frequently,Strong,Low,Average,0,5.527978978319622
+30 - 45,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Neutral,Often tired,Frequently,Moderate,Low,Good,2,7.312037280884873
+30 - 45,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Often tired,Frequently,Moderate,Medium,Good,2,7.3119890406724055
+30 - 45,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Occasionally tired,Sometimes,Weak,Low,Average,0,6.067306025482286
+45 - 60,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Exhausted,Frequently,Moderate,High,Good,0,5.29308556464254
+16 - 21,Female,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Stable,Fresh,Never,Moderate,High,Good,0,5.744173400455747
+45 - 60,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Exhausted,Sometimes,Strong,Low,Average,0,6.22472741749349
+45 - 60,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Often tired,Sometimes,Strong,Medium,Good,1,7.330629636397676
+45 - 60,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Daily,Unstable,Exhausted,Frequently,Moderate,High,Poor,0,6.399041247315284
+30 - 45,Male,More than 10 hours,4 - 6 hours,More than 8 hours,Daily,Stable,Fresh,Sometimes,Moderate,Medium,Good,2,7.116167224336399
+22 - 30,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Neutral,Fresh,Frequently,Moderate,High,Poor,1,7.169813318786436
+16 - 21,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Occasionally tired,Never,Weak,Low,Average,2,8.732352291549871
+22 - 30,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Stable,Fresh,Frequently,Weak,Medium,Good,2,8.202230023486418
+45 - 60,Female,Less than 7 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Fresh,Sometimes,Weak,Medium,Average,1,6.963047469231432
+45 - 60,Female,Less than 7 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Exhausted,Never,Moderate,Medium,Average,1,6.1262099474925735
+22 - 30,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,Never,Stable,Exhausted,Frequently,Moderate,High,Average,0,4.794146961858075
+22 - 30,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Often tired,Never,Weak,High,Average,0,6.353175250322989
+22 - 30,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Weak,High,Average,0,5.484232586159076
+45 - 60,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Stable,Exhausted,Sometimes,Moderate,Low,Good,1,6.2424430711419205
+45 - 60,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Fresh,Never,Strong,High,Poor,0,5.0164887765979165
+16 - 21,Male,9 - 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Sometimes,Weak,Low,Good,1,7.347831282790619
+16 - 21,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Exhausted,Never,Moderate,Medium,Good,2,8.41614515559209
+45 - 60,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Frequently,Moderate,Medium,Good,2,7.041168988591605
+22 - 30,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Strong,Low,Good,2,8.93981970432399
+22 - 30,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Often tired,Frequently,Moderate,High,Poor,1,6.909643589489384
+16 - 21,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Often tired,Frequently,Moderate,Low,Good,1,6.013795577424944
+45 - 60,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Never,Neutral,Often tired,Never,Weak,Medium,Average,0,5.418271512476522
+16 - 21,Male,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Often tired,Frequently,Weak,Medium,Good,1,6.152207314299048
+16 - 21,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Never,Strong,Low,Good,2,8.664885281600844
+30 - 45,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Fresh,Never,Strong,High,Poor,0,6.460065150570954
+30 - 45,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Stable,Fresh,Frequently,Moderate,High,Poor,1,6.995252653662083
+30 - 45,Female,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Stable,Exhausted,Frequently,Weak,Low,Average,0,5.485236187985739
+22 - 30,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes,Strong,Low,Good,2,7.424678221356553
+45 - 60,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Fresh,Frequently,Strong,High,Good,1,6.007592375769328
+45 - 60,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Fresh,Sometimes,Strong,Medium,Good,1,6.241212077126248
+45 - 60,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Fresh,Frequently,Moderate,Low,Average,0,5.157503220575016
+45 - 60,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,Daily,Neutral,Exhausted,Never,Weak,High,Poor,0,5.7668017086334515
+30 - 45,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,Daily,Unstable,Often tired,Frequently,Strong,High,Average,0,4.980291237556386
+22 - 30,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Never,Weak,Medium,Good,0,4.651726656217328
+22 - 30,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Never,Neutral,Occasionally tired,Never,Strong,Medium,Poor,1,6.823100684049879
+30 - 45,Female,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Stable,Occasionally tired,Never,Strong,Medium,Poor,2,7.363649934414202
+22 - 30,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes,Weak,Medium,Average,0,4.757759443821298
+30 - 45,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Occasionally tired,Frequently,Weak,Medium,Poor,2,7.366809019706867
+45 - 60,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Fresh,Never,Weak,Low,Poor,0,4.756091677915545
+30 - 45,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Fresh,Never,Moderate,High,Good,0,4.803805387024589
+45 - 60,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Sometimes,Strong,Low,Good,1,7.03784279653904
+45 - 60,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Often tired,Frequently,Moderate,Low,Poor,1,6.977941889253901
+16 - 21,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently,Weak,Low,Poor,1,6.33640396419084
+30 - 45,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Sometimes,Strong,Low,Average,2,7.6084844859190754
+16 - 21,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Fresh,Sometimes,Moderate,Low,Average,1,7.068268832021304
+30 - 45,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,Daily,Neutral,Fresh,Frequently,Strong,Medium,Poor,2,8.049512863264475
+30 - 45,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Often tired,Sometimes,Moderate,Medium,Good,1,6.3558736312452
+16 - 21,Male,9 - 10 hours,More than 6 hours,More than 8 hours,Never,Neutral,Often tired,Frequently,Weak,High,Poor,0,4.777654345298821
+16 - 21,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Often tired,Frequently,Moderate,Low,Poor,0,5.78174948960643
+30 - 45,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Never,Strong,High,Good,1,6.488099547238901
+22 - 30,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Fresh,Never,Strong,Medium,Good,1,7.119737107677036
+45 - 60,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Fresh,Frequently,Strong,Medium,Average,1,6.974449348570822
+16 - 21,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Stable,Often tired,Frequently,Strong,Medium,Average,1,7.273835115741267
+45 - 60,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Never,Stable,Occasionally tired,Frequently,Weak,Low,Average,2,7.863890037284231
+22 - 30,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,Daily,Neutral,Often tired,Frequently,Moderate,Low,Average,1,6.986419338450515
+22 - 30,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Exhausted,Frequently,Weak,Medium,Good,1,6.8524629050032075
+22 - 30,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Often tired,Frequently,Weak,High,Poor,0,4.86376016879829
+16 - 21,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Often tired,Sometimes,Weak,High,Average,0,5.191334566647726
+22 - 30,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Strong,Medium,Average,0,6.293576819812023
+16 - 21,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Often tired,Sometimes,Strong,High,Good,0,5.447923280525744
+22 - 30,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Fresh,Sometimes,Strong,Medium,Good,1,6.140512151742139
+45 - 60,Female,More than 10 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Frequently,Moderate,High,Poor,0,5.835115477042054
+45 - 60,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Often tired,Frequently,Strong,Medium,Poor,0,4.84463974240326
+30 - 45,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,Never,Neutral,Exhausted,Sometimes,Moderate,High,Good,0,4.8845780376173416
+45 - 60,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Occasionally tired,Sometimes,Strong,Low,Average,1,6.55157370458915
+30 - 45,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,Daily,Stable,Exhausted,Frequently,Strong,Medium,Average,1,6.397803551522588
+45 - 60,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Unstable,Occasionally tired,Frequently,Weak,Medium,Average,0,4.581737232532958
+16 - 21,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Sometimes,Weak,High,Poor,1,6.3659844650686255
+45 - 60,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Often tired,Sometimes,Weak,Medium,Average,0,4.837870126144329
+30 - 45,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Fresh,Sometimes,Moderate,Medium,Average,2,7.582458280396084
+30 - 45,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Never,Moderate,Medium,Good,2,8.22370578944476
+22 - 30,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes,Strong,Low,Average,0,5.057180678063917
+16 - 21,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Exhausted,Never,Moderate,Low,Good,1,7.459515832128668
+45 - 60,Female,More than 10 hours,More than 6 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Frequently,Strong,High,Average,0,4.854020968553494
+22 - 30,Female,Less than 7 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Frequently,Moderate,Low,Poor,2,7.278987721304084
+45 - 60,Female,7 - 8 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Fresh,Sometimes,Moderate,High,Average,0,4.677405067514111
+45 - 60,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Frequently,Moderate,Low,Average,0,4.741271742201201
+22 - 30,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Exhausted,Frequently,Weak,High,Good,0,5.4215575360654515
+22 - 30,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Frequently,Moderate,Low,Good,2,7.584289297070436
+22 - 30,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Fresh,Frequently,Weak,Low,Good,1,6.589646587000141
+22 - 30,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Exhausted,Never,Weak,High,Average,0,4.912667436811585
+22 - 30,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Moderate,Medium,Average,0,5.228539722096151
+45 - 60,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Exhausted,Sometimes,Strong,Medium,Poor,1,7.33806983276567
+22 - 30,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Fresh,Sometimes,Strong,Low,Average,1,6.946707938995894
+16 - 21,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Fresh,Sometimes,Strong,High,Poor,0,5.506834541709714
+30 - 45,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Exhausted,Frequently,Moderate,Medium,Good,1,7.192216955312473
+22 - 30,Female,Less than 7 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Often tired,Frequently,Strong,High,Good,1,6.7539556396577884
+22 - 30,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Never,Weak,Medium,Good,2,7.732723686587383
+45 - 60,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Strong,High,Poor,1,6.865355826939538
+22 - 30,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Often tired,Sometimes,Moderate,Low,Average,0,5.880789657258731
+22 - 30,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Never,Strong,High,Good,0,4.578624279682198
+22 - 30,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,Never,Neutral,Exhausted,Never,Weak,Medium,Average,0,6.098820797818085
+45 - 60,Female,9 - 10 hours,More than 6 hours,4 - 6 hours,Daily,Unstable,Often tired,Never,Moderate,Low,Average,0,5.755800778981816
+22 - 30,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Strong,High,Good,1,6.738776540728296
+30 - 45,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Exhausted,Never,Moderate,Medium,Poor,0,4.663518063897744
+45 - 60,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Never,Stable,Exhausted,Sometimes,Moderate,Low,Average,0,6.247157248213554
+30 - 45,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Often tired,Sometimes,Moderate,High,Good,1,6.292864481697067
+45 - 60,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Neutral,Exhausted,Never,Strong,Medium,Average,1,7.083678172892258
+22 - 30,Male,Less than 7 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Stable,Fresh,Sometimes,Moderate,High,Average,0,6.341744801063626
+30 - 45,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Frequently,Strong,High,Average,1,6.421158543661283
+45 - 60,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Weak,Low,Average,1,6.03647394964718
+16 - 21,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,Daily,Neutral,Exhausted,Frequently,Strong,Low,Average,1,6.9682084438607514
+22 - 30,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,Never,Stable,Exhausted,Sometimes,Weak,Medium,Poor,0,4.622155919709727
+45 - 60,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Fresh,Sometimes,Strong,Low,Poor,2,7.912139968434072
+16 - 21,Female,More than 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Frequently,Moderate,Medium,Good,0,5.0537552962944075
+45 - 60,Female,More than 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes,Strong,High,Poor,0,6.112402559586123
+16 - 21,Male,More than 10 hours,Less than 2 hours,6 - 8 hours,Daily,Stable,Exhausted,Never,Moderate,High,Poor,0,5.9965193807673165
+22 - 30,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,Daily,Neutral,Exhausted,Frequently,Weak,Medium,Poor,1,6.265666019110573
+30 - 45,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Exhausted,Never,Strong,High,Average,0,4.869042038712754
+16 - 21,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Frequently,Moderate,Low,Average,2,8.570351922786028
+45 - 60,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Exhausted,Sometimes,Weak,High,Good,0,4.918698646673421
+22 - 30,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Occasionally tired,Frequently,Weak,Low,Good,2,7.399347564316719
+16 - 21,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Exhausted,Frequently,Strong,Medium,Good,0,5.240944205582764
+45 - 60,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,Never,Stable,Often tired,Never,Weak,Medium,Average,0,5.469045970382043
+45 - 60,Female,More than 10 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Fresh,Sometimes,Moderate,High,Poor,0,5.736509543060592
+45 - 60,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Often tired,Never,Weak,High,Poor,0,5.237827279139545
+16 - 21,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Sometimes,Weak,Low,Average,1,7.410687876529371
+16 - 21,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,Daily,Neutral,Exhausted,Never,Moderate,Low,Good,2,8.028468876827223
+16 - 21,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Stable,Exhausted,Frequently,Weak,High,Good,1,7.430892865503881
+30 - 45,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Never,Weak,High,Good,1,7.372296585330673
+16 - 21,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Sometimes,Weak,Medium,Average,1,6.555238050383167
+16 - 21,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Stable,Often tired,Sometimes,Weak,Medium,Good,2,8.184829137724085
+16 - 21,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Stable,Occasionally tired,Frequently,Moderate,Medium,Good,2,7.092900825439996
+30 - 45,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Unstable,Fresh,Sometimes,Weak,High,Average,0,5.425069432266296
+16 - 21,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,Daily,Stable,Fresh,Never,Moderate,High,Poor,1,6.023184924793301
+45 - 60,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Frequently,Weak,High,Average,0,5.994941876267513
+16 - 21,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes,Weak,Medium,Average,1,7.392477843881588
+45 - 60,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Often tired,Sometimes,Weak,High,Average,0,4.573366405781195
+45 - 60,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Weak,Low,Average,2,8.215089703802876
+45 - 60,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,Never,Stable,Exhausted,Never,Moderate,High,Poor,0,5.004873888688041
+30 - 45,Female,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Frequently,Moderate,High,Good,2,7.341048247374583
+30 - 45,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Sometimes,Moderate,High,Average,0,5.926699171769105
+30 - 45,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Strong,High,Poor,1,6.642276222475972
+16 - 21,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Fresh,Frequently,Weak,High,Good,1,7.449982228565505
+45 - 60,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,Never,Neutral,Occasionally tired,Sometimes,Weak,Low,Good,1,7.445429965633879
+30 - 45,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,Never,Stable,Exhausted,Sometimes,Moderate,Low,Good,2,7.130103185970559
+30 - 45,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Exhausted,Frequently,Strong,High,Average,0,6.290413675374399
+16 - 21,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Exhausted,Frequently,Weak,Medium,Average,1,7.27951418320104
+30 - 45,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Never,Moderate,High,Good,0,5.523354884231332
+16 - 21,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Neutral,Often tired,Sometimes,Weak,High,Good,0,5.5642269705306315
+22 - 30,Male,More than 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Sometimes,Weak,High,Good,1,6.441673338104379
+30 - 45,Female,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Exhausted,Sometimes,Moderate,Medium,Good,0,4.714344022679552
+22 - 30,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Fresh,Frequently,Moderate,Medium,Good,1,6.577646592902888
+16 - 21,Female,7 - 8 hours,More than 6 hours,4 - 6 hours,Never,Stable,Often tired,Never,Weak,Medium,Good,1,7.276705007275286
+45 - 60,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Sometimes,Weak,Low,Poor,0,5.394824733646909
+30 - 45,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Frequently,Moderate,Medium,Good,1,6.4753830077344166
+16 - 21,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Exhausted,Sometimes,Weak,Low,Average,0,5.565234532910046
+45 - 60,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,Never,Unstable,Fresh,Never,Weak,Low,Average,0,4.984941007269459
+45 - 60,Female,More than 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Stable,Often tired,Sometimes,Moderate,Medium,Average,1,6.254239120029139
+22 - 30,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Often tired,Never,Weak,Medium,Good,0,5.038486461898762
+16 - 21,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Stable,Exhausted,Never,Weak,Medium,Average,1,6.835201893687525
+45 - 60,Male,More than 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Unstable,Fresh,Sometimes,Strong,Low,Poor,1,7.404232161241172
+30 - 45,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Neutral,Fresh,Sometimes,Moderate,High,Good,1,7.04404469501246
+30 - 45,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Exhausted,Never,Strong,Medium,Average,0,5.254568326209245
+22 - 30,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Frequently,Strong,Medium,Poor,1,6.855091755134048
+45 - 60,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Often tired,Never,Strong,Medium,Poor,0,4.540142395555453
+16 - 21,Male,7 - 8 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes,Weak,Low,Average,1,6.145764740656153
+30 - 45,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Often tired,Sometimes,Weak,Low,Poor,1,6.922510840048755
+45 - 60,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,Daily,Neutral,Often tired,Frequently,Strong,High,Average,1,7.485080775156395
+45 - 60,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Never,Strong,Medium,Poor,2,8.897771074506666
+22 - 30,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Exhausted,Never,Strong,Low,Good,1,6.210126022854786
+30 - 45,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Exhausted,Never,Weak,High,Good,0,5.144158331166357
+30 - 45,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes,Strong,Medium,Good,1,6.777494478545605
+16 - 21,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Daily,Stable,Exhausted,Never,Strong,Low,Good,1,7.316059607891933
+30 - 45,Male,More than 10 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Unstable,Often tired,Frequently,Moderate,Medium,Good,0,4.922896013993089
+16 - 21,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Exhausted,Sometimes,Moderate,Medium,Average,0,5.154994704355829
+30 - 45,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Often tired,Sometimes,Weak,Low,Good,1,7.1111529266313065
+22 - 30,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Exhausted,Never,Moderate,Low,Good,1,7.045523611492902
+30 - 45,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Fresh,Frequently,Moderate,Low,Good,2,8.931264066149119
+16 - 21,Female,Less than 7 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes,Moderate,Medium,Good,2,8.616794696232922
+16 - 21,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Fresh,Sometimes,Weak,Medium,Poor,1,7.053726125980663
+22 - 30,Female,Less than 7 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Occasionally tired,Never,Moderate,High,Good,2,7.609227538346741
+30 - 45,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Never,Weak,Medium,Good,2,7.195344228012768
+30 - 45,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Often tired,Frequently,Strong,Low,Average,2,8.368466053024314
+22 - 30,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Moderate,Medium,Poor,1,6.539236726829633
+30 - 45,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Fresh,Frequently,Weak,High,Average,2,7.880304987479203
+30 - 45,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Fresh,Sometimes,Moderate,High,Good,1,6.44038776639674
+16 - 21,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Frequently,Strong,Low,Average,1,7.214041733217771
+30 - 45,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,Daily,Neutral,Fresh,Frequently,Weak,Low,Average,1,7.215170092018771
+30 - 45,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Frequently,Weak,High,Good,0,4.739524263638502
+22 - 30,Male,7 - 8 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes,Weak,High,Poor,1,7.300608477870155
+22 - 30,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Fresh,Never,Strong,High,Poor,0,6.28105456147979
+45 - 60,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes,Strong,Low,Average,0,5.687184907108097
+16 - 21,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Fresh,Never,Strong,High,Good,2,7.244076469689558
+30 - 45,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Fresh,Frequently,Weak,High,Average,1,7.369860828834707
+30 - 45,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Frequently,Strong,Low,Average,1,6.767013598291407
+45 - 60,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently,Moderate,Medium,Average,1,6.752274442030799
+30 - 45,Female,9 - 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Fresh,Frequently,Strong,Medium,Good,2,7.99035382022254
+16 - 21,Female,9 - 10 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Often tired,Frequently,Weak,High,Good,0,5.85820463828898
+45 - 60,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Never,Moderate,Medium,Poor,1,7.197442768450163
+16 - 21,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Occasionally tired,Never,Strong,Medium,Good,2,7.068777042230437
+45 - 60,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Frequently,Moderate,Medium,Average,0,6.078342477214677
+45 - 60,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Exhausted,Sometimes,Moderate,Medium,Average,0,5.496884397858114
+22 - 30,Male,7 - 8 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Sometimes,Weak,High,Poor,0,4.673840576174848
+16 - 21,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Occasionally tired,Frequently,Moderate,Medium,Good,1,6.9749458961666475
+30 - 45,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Fresh,Never,Moderate,Medium,Average,1,7.052950315886555
+30 - 45,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Never,Neutral,Fresh,Sometimes,Weak,Low,Poor,1,7.193689004154152
+16 - 21,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Exhausted,Sometimes,Weak,High,Poor,0,5.574213083637096
+30 - 45,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Fresh,Sometimes,Weak,Low,Average,0,5.673682236041758
+30 - 45,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Frequently,Moderate,Low,Average,2,8.818640804157564
+16 - 21,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Fresh,Sometimes,Moderate,High,Good,1,7.33500801272635
+45 - 60,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Unstable,Occasionally tired,Sometimes,Moderate,Medium,Poor,0,5.99087894836866
+16 - 21,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Fresh,Sometimes,Weak,Low,Average,1,6.506992735277303
+45 - 60,Male,More than 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Sometimes,Strong,High,Poor,0,5.363319092459359
+30 - 45,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,Daily,Stable,Exhausted,Never,Moderate,Medium,Good,1,6.563374428959916
+30 - 45,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Frequently,Strong,High,Average,0,4.7551606055911275
+30 - 45,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Daily,Stable,Often tired,Frequently,Weak,Low,Good,2,7.517559963200034
+22 - 30,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Often tired,Never,Moderate,Medium,Poor,0,5.067551811597449
+45 - 60,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Exhausted,Never,Strong,Medium,Good,1,6.140972909761303
+22 - 30,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Never,Stable,Often tired,Frequently,Moderate,High,Good,0,5.22616459279727
+22 - 30,Female,Less than 7 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Sometimes,Moderate,Medium,Poor,1,6.867420211494261
+16 - 21,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,Never,Stable,Fresh,Sometimes,Moderate,Low,Good,1,6.053913410695113
+22 - 30,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,Daily,Stable,Exhausted,Frequently,Strong,Low,Poor,2,8.325044568707964
+16 - 21,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,Never,Neutral,Often tired,Sometimes,Weak,Low,Average,1,6.69839702719869
+16 - 21,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Daily,Stable,Occasionally tired,Never,Moderate,High,Poor,1,6.813966952061365
+22 - 30,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Exhausted,Sometimes,Weak,Medium,Poor,1,6.429811878192426
+45 - 60,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Often tired,Sometimes,Weak,Medium,Average,0,5.791834482663202
+45 - 60,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Exhausted,Sometimes,Strong,Medium,Poor,1,6.886249890853517
+45 - 60,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Often tired,Frequently,Strong,Low,Average,1,6.045750374908574
+45 - 60,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Neutral,Exhausted,Never,Weak,Medium,Average,0,5.641556609337824
+45 - 60,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,Never,Stable,Occasionally tired,Sometimes,Moderate,Low,Poor,0,5.2121934517956925
+22 - 30,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently,Strong,Medium,Good,2,7.623422152178822
+22 - 30,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Fresh,Sometimes,Moderate,Low,Good,1,6.056022283123822
+30 - 45,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Exhausted,Never,Moderate,Medium,Average,0,6.47303049758596
+45 - 60,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Fresh,Sometimes,Moderate,High,Good,2,8.040136042355622
+22 - 30,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,Daily,Neutral,Exhausted,Never,Weak,High,Good,1,7.233900840989487
+30 - 45,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Often tired,Sometimes,Moderate,Low,Poor,1,6.5402859621168945
+45 - 60,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Often tired,Never,Weak,Low,Average,0,5.711549638713774
+16 - 21,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Fresh,Sometimes,Weak,Medium,Average,2,8.09342055868656
+30 - 45,Male,More than 10 hours,More than 6 hours,More than 8 hours,Never,Unstable,Exhausted,Never,Moderate,Medium,Poor,0,4.974453583471989
+22 - 30,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Fresh,Sometimes,Moderate,High,Good,1,6.1905907689778275
+16 - 21,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Sometimes,Moderate,Medium,Average,1,6.783364890082207
+16 - 21,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Fresh,Frequently,Moderate,Low,Good,1,7.154990329647916
+16 - 21,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Fresh,Frequently,Weak,Low,Average,2,7.369708911051054
+30 - 45,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Often tired,Never,Moderate,Low,Average,0,4.7035649452408075
+22 - 30,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Fresh,Sometimes,Moderate,Low,Average,2,8.939169255529118
+16 - 21,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Exhausted,Never,Weak,Low,Average,0,4.805718278368664
+45 - 60,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,Never,Stable,Often tired,Frequently,Strong,High,Good,0,4.991915456769016
+16 - 21,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Fresh,Never,Strong,High,Good,1,6.323731541245265
+16 - 21,Male,More than 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Weak,Low,Good,1,6.9343357137285
+30 - 45,Female,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Fresh,Frequently,Strong,Medium,Good,2,8.550265646722229
+30 - 45,Female,9 - 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Fresh,Sometimes,Weak,Low,Poor,0,4.821362746519111
+22 - 30,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,Never,Neutral,Fresh,Never,Moderate,High,Average,0,4.873134048102612
+45 - 60,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Never,Unstable,Often tired,Frequently,Moderate,Low,Average,0,5.070190337387694
+30 - 45,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,Daily,Stable,Exhausted,Sometimes,Strong,High,Average,1,6.128021197490652
+16 - 21,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Frequently,Moderate,High,Poor,1,6.077522581752912
+22 - 30,Male,More than 10 hours,More than 6 hours,More than 8 hours,Never,Unstable,Fresh,Never,Strong,Low,Good,1,6.797031947352222
+16 - 21,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Exhausted,Sometimes,Strong,Low,Average,2,8.878997883128378
+16 - 21,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Sometimes,Moderate,Medium,Good,1,6.810952682415159
+30 - 45,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Often tired,Frequently,Moderate,High,Good,0,4.846747190589509
+22 - 30,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Occasionally tired,Frequently,Strong,Medium,Poor,2,8.789654700855298
+45 - 60,Male,More than 10 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Often tired,Frequently,Moderate,Low,Poor,0,6.29353084925285
+45 - 60,Female,More than 10 hours,4 - 6 hours,More than 8 hours,Never,Neutral,Exhausted,Sometimes,Weak,High,Good,0,4.660467491323285
+30 - 45,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Exhausted,Sometimes,Moderate,Medium,Average,0,5.549022779140509
+30 - 45,Female,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Never,Moderate,Medium,Average,1,6.95614485224731
+22 - 30,Female,Less than 7 hours,Less than 2 hours,4 - 6 hours,Never,Stable,Often tired,Sometimes,Weak,Medium,Poor,0,5.320793653979323
+45 - 60,Female,Less than 7 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Occasionally tired,Never,Moderate,Low,Poor,1,7.089137000583992
+45 - 60,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,Never,Stable,Fresh,Frequently,Moderate,Low,Poor,1,7.463778119193802
+45 - 60,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,Daily,Neutral,Often tired,Frequently,Strong,Low,Poor,1,6.774450522451793
+16 - 21,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Exhausted,Sometimes,Moderate,High,Poor,0,6.464757233817213
+45 - 60,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Neutral,Often tired,Frequently,Moderate,Low,Poor,2,8.195799957622171
+16 - 21,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Unstable,Exhausted,Frequently,Weak,High,Poor,0,4.724077804336105
+22 - 30,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Fresh,Sometimes,Strong,Medium,Average,1,6.484434709411869
+16 - 21,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Fresh,Never,Strong,Medium,Poor,1,7.192779292153055
+22 - 30,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Sometimes,Strong,Low,Poor,0,5.2957111980914835
+45 - 60,Female,7 - 8 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Never,Moderate,Medium,Average,0,6.4389408665507375
+45 - 60,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Occasionally tired,Sometimes,Strong,Low,Average,0,6.23101425178796
+22 - 30,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Never,Stable,Occasionally tired,Sometimes,Weak,High,Good,0,6.13414414189856
+30 - 45,Male,More than 10 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Fresh,Frequently,Strong,Medium,Poor,1,6.406248376893111
+22 - 30,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Sometimes,Weak,Low,Poor,1,6.658457131058454
+30 - 45,Female,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Sometimes,Strong,Medium,Poor,1,6.117684572013399
+16 - 21,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Never,Strong,Medium,Poor,1,6.038026115123186
+16 - 21,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Fresh,Frequently,Weak,Low,Good,1,7.443972622016887
+16 - 21,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Exhausted,Never,Strong,Medium,Average,1,7.253970180768309
+45 - 60,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,Never,Stable,Often tired,Never,Strong,Medium,Average,0,5.015805654089879
+16 - 21,Male,7 - 8 hours,4 - 6 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Frequently,Strong,Medium,Poor,1,7.043961309140547
+30 - 45,Male,More than 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Often tired,Frequently,Moderate,Medium,Poor,0,4.841775174780132
+16 - 21,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,Daily,Stable,Often tired,Frequently,Weak,High,Poor,0,5.837286439848862
+22 - 30,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Sometimes,Strong,Medium,Good,1,6.613429416621405
+22 - 30,Female,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Unstable,Fresh,Frequently,Weak,Medium,Good,1,6.259941480106269
+45 - 60,Female,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Exhausted,Frequently,Weak,Low,Average,1,6.234655564006629
+22 - 30,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,Never,Unstable,Fresh,Frequently,Weak,High,Poor,0,6.358751978255172
+30 - 45,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Often tired,Never,Strong,Low,Poor,1,6.375364347246893
+16 - 21,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Strong,Low,Poor,2,8.843748470046233
+45 - 60,Female,More than 10 hours,Less than 2 hours,More than 8 hours,Daily,Neutral,Exhausted,Sometimes,Weak,Low,Poor,1,6.8238399970591805
+16 - 21,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Stable,Fresh,Never,Moderate,High,Good,1,7.071893884050094
+16 - 21,Female,Less than 7 hours,More than 6 hours,4 - 6 hours,Daily,Neutral,Often tired,Sometimes,Weak,Low,Average,1,6.990296065076597
+30 - 45,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Neutral,Fresh,Never,Moderate,Low,Average,1,6.419900845418915
+22 - 30,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Fresh,Frequently,Weak,Low,Good,2,7.176985004103839
+22 - 30,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Fresh,Never,Weak,Medium,Poor,1,7.432297920994792
+16 - 21,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,Never,Stable,Often tired,Sometimes,Weak,Low,Average,1,7.106845375043653
+45 - 60,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,Daily,Stable,Occasionally tired,Never,Strong,High,Average,2,7.391965724838291
+22 - 30,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Stable,Occasionally tired,Frequently,Moderate,High,Good,0,5.61352578602786
+45 - 60,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,Never,Stable,Occasionally tired,Sometimes,Moderate,Medium,Poor,0,5.6432253789398
+22 - 30,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Fresh,Frequently,Weak,High,Average,0,5.059958187320568
+45 - 60,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Frequently,Strong,High,Poor,0,6.038985866383873
+30 - 45,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Never,Stable,Fresh,Sometimes,Strong,Medium,Average,1,6.831531078767101
+45 - 60,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,Never,Unstable,Occasionally tired,Frequently,Moderate,Low,Good,1,6.917581119351528
+30 - 45,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Frequently,Strong,Medium,Poor,1,6.629400093641685
+30 - 45,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Never,Moderate,Low,Good,1,6.371596484251736
+45 - 60,Female,Less than 7 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Fresh,Frequently,Moderate,Low,Average,2,7.090454577821076
+30 - 45,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,Daily,Neutral,Exhausted,Frequently,Moderate,High,Good,1,6.533959017976892
+16 - 21,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,Never,Stable,Exhausted,Frequently,Strong,Medium,Good,1,7.1367691656965535
+30 - 45,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Occasionally tired,Frequently,Moderate,High,Good,0,4.874087497115047
+22 - 30,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Often tired,Sometimes,Moderate,High,Average,0,5.147358472808487
+45 - 60,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Fresh,Never,Weak,Low,Poor,1,6.021590232944634
+16 - 21,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Fresh,Frequently,Moderate,High,Good,0,5.350872877232834
+45 - 60,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Frequently,Moderate,Medium,Poor,2,7.650660661526529
+22 - 30,Female,More than 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes,Weak,High,Average,0,5.51522075736891
+22 - 30,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Fresh,Frequently,Weak,High,Poor,0,4.98481946483016
+22 - 30,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,Daily,Unstable,Fresh,Sometimes,Strong,Low,Good,2,7.777354579378964
+30 - 45,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Never,Moderate,Medium,Good,1,6.174108960760375
+30 - 45,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Stable,Fresh,Never,Strong,High,Good,2,7.542698063547792
+45 - 60,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,Never,Stable,Exhausted,Frequently,Strong,Low,Good,1,6.069003963032629
+45 - 60,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Occasionally tired,Frequently,Weak,High,Good,0,4.729673649478407
+16 - 21,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Stable,Fresh,Frequently,Strong,Medium,Good,2,8.65747501830386
+16 - 21,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Sometimes,Moderate,High,Average,0,5.721240084883265
+45 - 60,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,Daily,Stable,Often tired,Frequently,Weak,High,Average,1,6.061093203478455
+30 - 45,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Occasionally tired,Frequently,Moderate,Low,Average,2,7.713506653387179
+22 - 30,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Moderate,High,Poor,1,7.28319087601651
+45 - 60,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Often tired,Frequently,Weak,Low,Poor,0,5.0772611064805115
+16 - 21,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Stable,Exhausted,Never,Moderate,Medium,Average,0,5.662476442845224
+30 - 45,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Stable,Fresh,Frequently,Weak,High,Poor,0,4.808725430548405
+45 - 60,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,Daily,Unstable,Often tired,Never,Moderate,Medium,Poor,0,5.462280203709635
+45 - 60,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Frequently,Weak,Medium,Good,2,7.561869019374761
+30 - 45,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,Daily,Neutral,Fresh,Never,Strong,High,Good,2,8.085392166316497
+45 - 60,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Daily,Stable,Often tired,Sometimes,Moderate,Low,Poor,1,7.055486789070035
+30 - 45,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Never,Neutral,Fresh,Never,Weak,Medium,Poor,1,6.711260743630988
+22 - 30,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,Daily,Neutral,Fresh,Never,Moderate,Medium,Average,2,7.281848449949525
+30 - 45,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,Daily,Neutral,Often tired,Never,Moderate,High,Poor,1,6.146751240976502
+30 - 45,Male,More than 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Fresh,Frequently,Moderate,High,Good,0,5.565178865103172
+30 - 45,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Exhausted,Frequently,Weak,High,Poor,0,4.603647073644854
+45 - 60,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,Never,Stable,Often tired,Frequently,Strong,High,Average,0,5.173208556387841
+45 - 60,Female,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Exhausted,Sometimes,Strong,High,Good,1,6.737423812675249
+30 - 45,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Occasionally tired,Sometimes,Strong,High,Good,0,4.7688293538779485
+45 - 60,Female,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Fresh,Never,Weak,Low,Good,2,8.60439396150808
+16 - 21,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes,Strong,Medium,Good,2,7.149101287359541
+16 - 21,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Weak,Low,Poor,2,8.973773873201035
+45 - 60,Female,More than 10 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Fresh,Never,Moderate,Low,Average,0,4.626749940945535
+45 - 60,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,Never,Neutral,Often tired,Never,Moderate,High,Poor,0,6.479920464779891
+30 - 45,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Fresh,Sometimes,Strong,Medium,Poor,1,6.710207656170849
+22 - 30,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Frequently,Weak,Low,Good,2,8.544489538593314
+45 - 60,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Unstable,Occasionally tired,Sometimes,Moderate,High,Average,0,5.1447076899494455
+16 - 21,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Never,Weak,High,Good,0,6.1197488917092695
+30 - 45,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Fresh,Never,Weak,Medium,Poor,1,6.259802804865023
+45 - 60,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Sometimes,Moderate,Low,Poor,1,6.65077747385696
+16 - 21,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Never,Weak,Low,Good,2,7.397431363068344
+16 - 21,Male,9 - 10 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Never,Moderate,Low,Poor,0,5.009281309527528
+22 - 30,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes,Moderate,High,Poor,0,5.863005444447858
+30 - 45,Female,More than 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Often tired,Sometimes,Moderate,Medium,Good,0,6.020455719779373
+30 - 45,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,Never,Unstable,Exhausted,Sometimes,Weak,Medium,Poor,0,5.691277481215689
+22 - 30,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Never,Moderate,Low,Average,0,5.443152377100317
+22 - 30,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Weak,High,Good,0,5.3236818282945375
+30 - 45,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Exhausted,Frequently,Moderate,Low,Average,0,5.19773653308599
+30 - 45,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Fresh,Frequently,Moderate,Medium,Poor,1,6.59775710159606
+45 - 60,Male,More than 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Fresh,Sometimes,Strong,High,Poor,0,6.3590582884956515
+45 - 60,Male,More than 10 hours,Less than 2 hours,More than 8 hours,Never,Unstable,Occasionally tired,Frequently,Strong,Low,Good,1,6.923775147078325
+22 - 30,Female,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Never,Strong,Low,Poor,2,7.011044234247205
+45 - 60,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Fresh,Frequently,Weak,High,Good,0,6.161238815575459
+16 - 21,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Never,Weak,Medium,Good,2,8.630922856909669
+45 - 60,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Sometimes,Moderate,High,Good,0,6.430053821333026
+45 - 60,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,Never,Unstable,Exhausted,Sometimes,Moderate,Low,Good,1,6.9526404763014655
+16 - 21,Male,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Often tired,Never,Moderate,Low,Good,1,6.067956014658066
+22 - 30,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Frequently,Moderate,Low,Average,1,6.561918921939707
+16 - 21,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes,Weak,Low,Good,1,6.938789873571355
+45 - 60,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Often tired,Sometimes,Moderate,Medium,Average,0,4.748594446971089
+22 - 30,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Often tired,Frequently,Moderate,Medium,Poor,0,5.961734950407289
+45 - 60,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Often tired,Frequently,Strong,Low,Good,2,8.413714687695235
+16 - 21,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Exhausted,Never,Moderate,Medium,Poor,0,6.376680913642076
+16 - 21,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Often tired,Frequently,Moderate,Medium,Good,2,8.458014336081975
+45 - 60,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,Never,Stable,Fresh,Frequently,Moderate,Medium,Average,1,6.754704387870132
+30 - 45,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Frequently,Weak,Low,Average,2,8.542540693371892
+30 - 45,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Never,Neutral,Often tired,Never,Strong,High,Average,0,4.8624661323313205
+16 - 21,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Exhausted,Never,Moderate,High,Poor,0,4.632992534733555
+16 - 21,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Exhausted,Sometimes,Moderate,High,Good,0,5.982241298580118
+30 - 45,Female,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Stable,Often tired,Never,Strong,Low,Poor,2,7.148089303468181
+30 - 45,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes,Moderate,Medium,Average,0,5.648946226359824
+45 - 60,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Stable,Occasionally tired,Frequently,Weak,Medium,Poor,0,6.183657553516544
+45 - 60,Female,9 - 10 hours,More than 6 hours,4 - 6 hours,Never,Neutral,Exhausted,Sometimes,Moderate,Low,Average,0,4.779544753252579
+30 - 45,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,Daily,Stable,Exhausted,Sometimes,Weak,Low,Average,2,7.716931457088545
+45 - 60,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Weak,High,Average,0,6.090534623719781
+45 - 60,Male,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Stable,Exhausted,Sometimes,Moderate,High,Good,1,7.284734761782484
+22 - 30,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Fresh,Never,Strong,Low,Good,2,7.231738119050259
+45 - 60,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Fresh,Never,Weak,High,Average,1,6.988040447428418
+16 - 21,Male,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Stable,Fresh,Never,Strong,Medium,Poor,1,6.2444016406221445
+45 - 60,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,Daily,Stable,Often tired,Never,Moderate,Low,Poor,1,6.105853121100645
+45 - 60,Male,More than 10 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Often tired,Sometimes,Weak,Low,Good,1,6.963628917309474
+30 - 45,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes,Moderate,Medium,Average,0,4.903254640095489
+16 - 21,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Fresh,Frequently,Strong,Medium,Poor,2,8.726206851751186
+45 - 60,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Sometimes,Moderate,Medium,Average,0,4.827311885731409
+45 - 60,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Sometimes,Moderate,High,Poor,0,4.828531595861985
+22 - 30,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Exhausted,Sometimes,Weak,Low,Good,1,6.039766965812433
+45 - 60,Male,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Fresh,Frequently,Moderate,High,Average,0,6.129149440462764
+45 - 60,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Never,Moderate,Medium,Average,2,8.246596253655117
+22 - 30,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes,Moderate,High,Poor,0,5.8303944413924
+30 - 45,Female,9 - 10 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Unstable,Exhausted,Frequently,Weak,Medium,Poor,0,5.546130849538239
+45 - 60,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Occasionally tired,Frequently,Strong,High,Poor,0,5.217660968247005
+22 - 30,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Fresh,Frequently,Strong,High,Average,1,6.878663371910195
+16 - 21,Female,9 - 10 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Exhausted,Never,Moderate,Medium,Good,0,6.2544010816262166
+30 - 45,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes,Weak,High,Good,1,7.410345362137436
+16 - 21,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Often tired,Frequently,Moderate,Low,Poor,1,6.863211266813819
+16 - 21,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,Daily,Stable,Occasionally tired,Never,Strong,High,Good,2,7.661796049705298
+22 - 30,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,Daily,Neutral,Exhausted,Frequently,Weak,High,Poor,0,5.284890214845271
+45 - 60,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,Never,Stable,Exhausted,Frequently,Strong,Low,Good,2,7.1271167005720475
+22 - 30,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Never,Unstable,Often tired,Frequently,Strong,Medium,Average,0,6.133198878943154
+22 - 30,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Exhausted,Frequently,Weak,Low,Poor,0,5.378269817140437
+22 - 30,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Weak,High,Good,0,5.253888858849815
+22 - 30,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Never,Moderate,Medium,Average,0,5.425359571339213
+30 - 45,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes,Moderate,High,Good,1,6.582254889309783
+45 - 60,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Exhausted,Sometimes,Strong,High,Average,0,5.102755748328284
+16 - 21,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Fresh,Sometimes,Weak,Low,Average,0,5.995218760352502
+16 - 21,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes,Weak,Low,Good,1,6.964932327663529
+45 - 60,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Exhausted,Never,Moderate,Medium,Good,1,6.687379335737275
+16 - 21,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,Daily,Neutral,Exhausted,Never,Strong,Medium,Average,1,6.818425183973902
+45 - 60,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Fresh,Never,Strong,Medium,Average,1,7.412197213164788
+16 - 21,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently,Moderate,High,Average,1,6.579153956701162
+22 - 30,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Never,Stable,Often tired,Frequently,Weak,Low,Poor,1,7.441785845735872
+16 - 21,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,Daily,Stable,Often tired,Frequently,Moderate,Low,Average,1,7.358025962934096
+45 - 60,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Occasionally tired,Sometimes,Moderate,Low,Poor,0,5.5054407801849585
+45 - 60,Female,7 - 8 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Frequently,Moderate,Medium,Average,2,7.621964643431324
+45 - 60,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Exhausted,Sometimes,Moderate,Low,Poor,1,6.293686702183945
+45 - 60,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Frequently,Weak,Low,Average,2,7.650366644053494
+45 - 60,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Sometimes,Moderate,Low,Average,1,6.104041951312748
+30 - 45,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Unstable,Often tired,Frequently,Weak,Medium,Average,0,4.964425390293634
+30 - 45,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,Daily,Neutral,Fresh,Frequently,Moderate,Low,Good,2,8.459212356676128
+16 - 21,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Often tired,Never,Strong,Medium,Good,2,8.275114942710426
+45 - 60,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Fresh,Frequently,Weak,Low,Average,1,6.15116700206614
+16 - 21,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Frequently,Strong,Low,Poor,1,6.027332738477325
+45 - 60,Male,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Never,Moderate,Low,Poor,1,6.1416644411338925
+45 - 60,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Often tired,Sometimes,Moderate,Medium,Average,0,6.299149146549137
+30 - 45,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,Daily,Unstable,Exhausted,Never,Moderate,Medium,Good,0,5.267782442746423
+30 - 45,Female,Less than 7 hours,4 - 6 hours,4 - 6 hours,Daily,Neutral,Exhausted,Never,Weak,Low,Poor,1,7.024510160124535
+22 - 30,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,Never,Stable,Often tired,Sometimes,Strong,High,Good,0,5.587105722227977
+30 - 45,Female,More than 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Stable,Often tired,Frequently,Weak,Medium,Poor,0,6.312944221929094
+22 - 30,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes,Weak,Medium,Average,0,5.748475991827984
+22 - 30,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Fresh,Frequently,Moderate,Low,Good,2,8.774425485152653
+22 - 30,Male,More than 10 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Fresh,Frequently,Strong,High,Poor,0,4.733796081416728
+22 - 30,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Sometimes,Moderate,Low,Average,1,6.106782972690343
+22 - 30,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,Never,Neutral,Often tired,Never,Weak,Medium,Average,0,6.37966424722695
+16 - 21,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Sometimes,Moderate,Medium,Average,1,6.478463445440642
+30 - 45,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,Never,Stable,Occasionally tired,Frequently,Strong,Low,Good,2,7.944429850323899
+22 - 30,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes,Moderate,Low,Good,1,7.267312966454182
+45 - 60,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Sometimes,Strong,High,Average,0,5.755416106142835
+30 - 45,Female,Less than 7 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Occasionally tired,Frequently,Strong,High,Good,2,7.239188491876604
+30 - 45,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,Never,Neutral,Fresh,Never,Moderate,Medium,Poor,1,6.034907903603739
+22 - 30,Male,More than 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Fresh,Sometimes,Weak,High,Average,0,5.169811229314172
+16 - 21,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Fresh,Frequently,Moderate,High,Average,0,4.778544145326775
+22 - 30,Male,9 - 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Often tired,Frequently,Weak,Medium,Good,1,7.2217027238834035
+16 - 21,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Exhausted,Sometimes,Weak,Medium,Average,1,6.4227821621601
+45 - 60,Male,Less than 7 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Moderate,Medium,Poor,2,8.42648957444599
+30 - 45,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Daily,Stable,Often tired,Sometimes,Weak,Medium,Good,2,8.521570097233795
+45 - 60,Female,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Weak,Low,Good,2,8.122554395138993
+16 - 21,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,Daily,Neutral,Fresh,Never,Moderate,Medium,Average,1,6.177247241432484
+16 - 21,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Never,Neutral,Often tired,Never,Moderate,Medium,Average,0,6.088050378540592
+45 - 60,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Stable,Fresh,Never,Moderate,Medium,Average,1,7.045105748046226
+16 - 21,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Stable,Occasionally tired,Sometimes,Weak,High,Good,0,5.740145511857027
+45 - 60,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,Daily,Neutral,Occasionally tired,Frequently,Strong,Medium,Average,2,8.541934359909122
+30 - 45,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,Daily,Unstable,Exhausted,Frequently,Weak,Low,Poor,0,5.566922183952643
+45 - 60,Female,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Stable,Occasionally tired,Frequently,Strong,Low,Average,2,7.9875911927287815
+30 - 45,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Unstable,Fresh,Frequently,Moderate,Medium,Average,0,6.287785166101916
+45 - 60,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently,Strong,Low,Good,2,8.045465658763987
+16 - 21,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Exhausted,Frequently,Moderate,High,Average,0,6.077194422449061
+45 - 60,Female,More than 10 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Exhausted,Sometimes,Moderate,Medium,Good,1,6.943414270169826
+16 - 21,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,Daily,Unstable,Fresh,Never,Strong,Low,Average,2,7.855082036717099
+45 - 60,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Often tired,Frequently,Moderate,Low,Poor,0,4.803349759465503
+45 - 60,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Sometimes,Strong,Medium,Poor,1,7.3162080202905795
+22 - 30,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,Never,Neutral,Exhausted,Frequently,Moderate,Low,Good,2,7.05083825348819
+16 - 21,Female,Less than 7 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Occasionally tired,Frequently,Weak,Medium,Good,1,7.102606565705829
+22 - 30,Male,More than 10 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Weak,Low,Average,1,7.205221395577273
+16 - 21,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,Daily,Neutral,Often tired,Never,Moderate,High,Average,0,5.123444135591097
+22 - 30,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Exhausted,Never,Moderate,Low,Poor,0,4.996978279628932
+30 - 45,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Frequently,Strong,Low,Average,2,7.2157828539866085
+45 - 60,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Exhausted,Frequently,Weak,Medium,Poor,0,5.987892585145354
+16 - 21,Male,More than 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Fresh,Frequently,Strong,Low,Good,0,4.567064869471559
+16 - 21,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,Never,Unstable,Fresh,Never,Moderate,Medium,Average,0,5.639779369742633
+45 - 60,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Sometimes,Moderate,High,Good,0,6.024917371481381
+16 - 21,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Frequently,Strong,Medium,Average,1,6.42305185885696
+16 - 21,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Frequently,Moderate,Medium,Poor,0,6.253531273523499
+22 - 30,Female,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Neutral,Exhausted,Frequently,Weak,Low,Good,2,7.062858371373468
+16 - 21,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Exhausted,Sometimes,Strong,High,Good,2,8.27282082252756
+30 - 45,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Stable,Often tired,Frequently,Weak,Medium,Average,0,5.184163497431815
+30 - 45,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,Never,Stable,Often tired,Sometimes,Weak,Low,Good,1,6.266159315669584
+45 - 60,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Often tired,Frequently,Weak,Low,Poor,1,7.125922127461287
+16 - 21,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Occasionally tired,Sometimes,Strong,Medium,Good,1,7.210252108900896
+45 - 60,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Often tired,Frequently,Moderate,Low,Good,1,7.48575771300101
+30 - 45,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Never,Weak,Medium,Average,0,6.142514609344026
+16 - 21,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Stable,Fresh,Never,Weak,Medium,Good,2,7.628711962152654
+16 - 21,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,Daily,Stable,Exhausted,Never,Weak,Medium,Average,1,6.618926515367139
+45 - 60,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Never,Moderate,High,Average,0,4.7212634739104145
+30 - 45,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Frequently,Moderate,Medium,Good,2,8.017141382329406
+16 - 21,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,Never,Stable,Exhausted,Never,Strong,Low,Poor,1,6.558027128689175
+45 - 60,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Fresh,Sometimes,Moderate,High,Average,0,6.192904583469036
+30 - 45,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Neutral,Fresh,Never,Strong,Low,Good,2,8.815132947852186
+45 - 60,Female,More than 10 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Often tired,Never,Strong,High,Average,0,4.754977324663965
+22 - 30,Female,More than 10 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Neutral,Fresh,Never,Strong,High,Poor,1,7.164619441112995
+16 - 21,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Exhausted,Frequently,Strong,High,Poor,0,5.2945745811207345
+22 - 30,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Strong,High,Average,0,6.094590731559107
+30 - 45,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,Daily,Stable,Exhausted,Sometimes,Weak,Low,Poor,1,6.511205310379527
+22 - 30,Male,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Never,Moderate,Medium,Good,0,4.799834854697547
+22 - 30,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Never,Weak,Low,Good,2,7.49858445829775
+30 - 45,Female,More than 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Strong,Medium,Average,1,7.396135988405347
+45 - 60,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Fresh,Sometimes,Moderate,Low,Poor,1,7.2876191277645175
+22 - 30,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Stable,Exhausted,Never,Weak,High,Good,0,4.958502790465283
+45 - 60,Female,7 - 8 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Sometimes,Weak,High,Good,0,5.944505136786132
+22 - 30,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes,Strong,Medium,Good,1,6.643491041062528
+45 - 60,Female,Less than 7 hours,4 - 6 hours,6 - 8 hours,Never,Stable,Often tired,Never,Weak,Medium,Average,1,7.126306601687246
+30 - 45,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Often tired,Sometimes,Weak,Low,Average,1,7.131814311127023
+22 - 30,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Never,Stable,Fresh,Frequently,Weak,Medium,Good,1,6.154685803253899
+30 - 45,Male,More than 10 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Often tired,Never,Weak,Low,Good,1,7.3538293600193505
+22 - 30,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Never,Weak,Medium,Poor,0,5.940073073092149
+30 - 45,Male,More than 10 hours,Less than 2 hours,More than 8 hours,Never,Unstable,Often tired,Sometimes,Strong,Medium,Poor,0,5.782295265770594
+30 - 45,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Stable,Fresh,Sometimes,Strong,Medium,Poor,2,7.820765846071259
+22 - 30,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,Daily,Neutral,Exhausted,Never,Weak,High,Average,0,5.8878968889342005
+22 - 30,Female,More than 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Frequently,Strong,High,Good,1,6.757878558671786
+22 - 30,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Often tired,Sometimes,Strong,Low,Average,1,7.239686199161612
+16 - 21,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes,Moderate,Medium,Good,2,8.511102277086097
+45 - 60,Female,7 - 8 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Fresh,Frequently,Weak,Low,Poor,1,6.4800744015459175
+16 - 21,Female,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently,Strong,Medium,Poor,1,7.343284842744301
+16 - 21,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Fresh,Never,Strong,High,Poor,0,5.585448886695192
+30 - 45,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Frequently,Weak,High,Poor,0,5.0035981178139055
+22 - 30,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Daily,Stable,Fresh,Never,Moderate,Medium,Good,2,7.457596330983245
+45 - 60,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,Never,Stable,Fresh,Frequently,Weak,Medium,Poor,0,5.191391987007838
+30 - 45,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Unstable,Often tired,Sometimes,Moderate,High,Good,0,4.863195433602852
+16 - 21,Female,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Never,Weak,High,Good,0,6.3169011226672565
+22 - 30,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Never,Weak,Low,Average,0,5.6667835895322405
+30 - 45,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,Never,Stable,Fresh,Never,Weak,High,Poor,1,6.583802518101245
+22 - 30,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Stable,Often tired,Frequently,Weak,Medium,Poor,1,6.016256477220447
+30 - 45,Female,Less than 7 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Unstable,Fresh,Sometimes,Moderate,Low,Average,0,5.30170283352728
+22 - 30,Male,More than 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Often tired,Never,Moderate,Medium,Good,1,7.358072964628896
+16 - 21,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Neutral,Exhausted,Never,Strong,Low,Poor,1,6.136930015179201
+45 - 60,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Exhausted,Never,Weak,Medium,Good,1,6.478970456385622
+16 - 21,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Neutral,Often tired,Never,Moderate,High,Average,0,5.424011607288265
+45 - 60,Male,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Sometimes,Moderate,Medium,Good,1,7.425092950576207
+22 - 30,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Unstable,Fresh,Frequently,Moderate,Low,Poor,0,6.39456667922363
+30 - 45,Female,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Stable,Exhausted,Sometimes,Weak,Medium,Good,0,4.806702806232161
+16 - 21,Male,More than 10 hours,Less than 2 hours,4 - 6 hours,Never,Neutral,Occasionally tired,Never,Strong,Low,Good,1,7.425910720406334
+45 - 60,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Fresh,Sometimes,Moderate,Medium,Poor,2,7.153959819657586
+16 - 21,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Neutral,Exhausted,Never,Weak,High,Poor,0,5.672459664033594
+45 - 60,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Moderate,High,Good,0,5.511777357768932
+16 - 21,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Often tired,Frequently,Moderate,Medium,Good,0,5.722908470869296
+45 - 60,Male,7 - 8 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Fresh,Frequently,Strong,Medium,Average,1,6.860156832184929
+45 - 60,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Never,Moderate,Medium,Poor,1,6.947755818254699
+22 - 30,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Occasionally tired,Sometimes,Moderate,Low,Good,1,6.6726682829674795
+45 - 60,Male,More than 10 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Frequently,Weak,Medium,Poor,1,6.439816157547097
+22 - 30,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,Never,Neutral,Fresh,Never,Weak,Medium,Average,0,4.536220367641681
+45 - 60,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Strong,Low,Good,2,7.579502905827536
+30 - 45,Female,More than 10 hours,More than 6 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Sometimes,Weak,High,Good,1,6.492996818054874
+30 - 45,Female,More than 10 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Frequently,Weak,Medium,Good,0,6.2442478178883025
+30 - 45,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Often tired,Never,Strong,Medium,Poor,0,6.364236564967225
+45 - 60,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,Daily,Neutral,Often tired,Sometimes,Moderate,High,Average,0,5.630266367178418
+22 - 30,Male,More than 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Fresh,Frequently,Strong,High,Poor,0,5.893301647753784
+22 - 30,Male,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Fresh,Sometimes,Weak,Low,Good,1,7.008777684115557
+45 - 60,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes,Strong,Medium,Average,2,7.322442574508009
+30 - 45,Male,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Often tired,Never,Moderate,Medium,Good,2,8.859395304685146
+30 - 45,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Never,Strong,Low,Good,2,8.616240759128834
+22 - 30,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,Daily,Stable,Exhausted,Never,Weak,High,Poor,1,7.12856179415652
+30 - 45,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Sometimes,Weak,Low,Good,2,8.266807513020847
+16 - 21,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Strong,High,Average,1,7.187368565588773
+22 - 30,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Often tired,Sometimes,Moderate,Low,Good,1,7.184427214191831
+30 - 45,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Often tired,Sometimes,Strong,High,Good,1,6.136809154573036
+22 - 30,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Often tired,Never,Moderate,Low,Poor,0,6.344998762354591
+16 - 21,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Fresh,Frequently,Moderate,High,Average,0,5.914477268626797
+22 - 30,Female,Less than 7 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Fresh,Frequently,Strong,High,Poor,2,8.742921180375436
+22 - 30,Female,More than 10 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Frequently,Moderate,High,Good,1,6.741630457053872
+22 - 30,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Fresh,Sometimes,Weak,High,Poor,0,4.805078085828523
+22 - 30,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,Daily,Stable,Often tired,Sometimes,Strong,High,Poor,1,6.086338140024966
+16 - 21,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Sometimes,Moderate,Medium,Poor,0,5.652576720333626
+45 - 60,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Fresh,Never,Weak,High,Poor,0,5.713430092765712
+22 - 30,Female,7 - 8 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Sometimes,Strong,Medium,Good,1,6.824293323485604
+22 - 30,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,Never,Unstable,Occasionally tired,Never,Weak,High,Good,0,5.348261342604772
+30 - 45,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Exhausted,Never,Weak,Medium,Average,0,5.972888471249446
+22 - 30,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently,Weak,Medium,Poor,2,8.607344153798229
+30 - 45,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,Never,Stable,Exhausted,Frequently,Moderate,Low,Poor,1,6.662295752060065
+45 - 60,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,Never,Stable,Fresh,Frequently,Strong,High,Average,1,7.33155627413745
+16 - 21,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Strong,Low,Poor,1,6.5263725188281185
+16 - 21,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Stable,Occasionally tired,Never,Moderate,Low,Average,1,6.175600524641409
+45 - 60,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Strong,High,Good,1,6.214487523079254
+16 - 21,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Often tired,Sometimes,Weak,Low,Average,0,6.36873402953803
+45 - 60,Female,More than 10 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Neutral,Often tired,Never,Strong,High,Poor,0,6.351137025813553
+45 - 60,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Stable,Exhausted,Frequently,Moderate,Low,Average,1,7.142265947576208
+45 - 60,Female,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Stable,Fresh,Frequently,Weak,High,Good,1,6.927327094974392
+16 - 21,Female,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Never,Moderate,High,Poor,0,5.401678742808264
+30 - 45,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Weak,High,Good,0,4.72647609168151
+45 - 60,Female,9 - 10 hours,More than 6 hours,4 - 6 hours,Daily,Stable,Often tired,Frequently,Weak,Medium,Good,1,6.151684014184186
+22 - 30,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Fresh,Never,Strong,Low,Average,2,7.3731401177720715
+16 - 21,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Frequently,Weak,Medium,Good,1,6.126160209172496
+45 - 60,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Sometimes,Moderate,Low,Poor,1,7.0514536971886805
+45 - 60,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Frequently,Strong,Low,Good,2,8.785117996979956
+22 - 30,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Never,Neutral,Occasionally tired,Sometimes,Moderate,Low,Good,2,8.078684483831301
+30 - 45,Female,9 - 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Unstable,Fresh,Never,Weak,Medium,Average,0,6.469682397924669
+30 - 45,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Unstable,Exhausted,Never,Moderate,Low,Good,0,6.177796172891869
+30 - 45,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Sometimes,Moderate,Medium,Average,0,4.749325362406534
+45 - 60,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Often tired,Never,Weak,High,Average,0,6.341683765234745
+45 - 60,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,Never,Stable,Often tired,Sometimes,Strong,Low,Poor,1,6.10914450954629
+45 - 60,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Neutral,Exhausted,Never,Moderate,Low,Poor,0,6.239792724124257
+16 - 21,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Frequently,Weak,High,Poor,0,5.537676114252144
+22 - 30,Female,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Never,Strong,High,Poor,0,5.682550871489859
+45 - 60,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Strong,Low,Average,1,7.232790088935534
+22 - 30,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Fresh,Frequently,Strong,High,Good,1,7.059363340734745
+22 - 30,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Exhausted,Sometimes,Moderate,Medium,Poor,0,5.298005407740261
+30 - 45,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Often tired,Never,Moderate,Medium,Poor,0,4.609523277644063
+16 - 21,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Sometimes,Moderate,Low,Poor,2,8.614880310328125
+45 - 60,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Strong,Medium,Good,0,5.170394483291802
+30 - 45,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Frequently,Moderate,Medium,Poor,0,6.105706897196023
+30 - 45,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Stable,Often tired,Frequently,Weak,Low,Good,1,6.12202317096285
+45 - 60,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Never,Moderate,High,Average,0,4.509264046009205
+22 - 30,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Often tired,Never,Moderate,Low,Average,0,5.166998343382288
+30 - 45,Female,More than 10 hours,More than 6 hours,Less than 4 hours,Never,Stable,Often tired,Sometimes,Strong,Medium,Average,0,5.296337387181887
+22 - 30,Female,More than 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Often tired,Never,Moderate,Low,Good,2,8.792182599846987
+16 - 21,Female,More than 10 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Exhausted,Never,Weak,Low,Poor,0,5.5747912058758455
+22 - 30,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,Never,Stable,Often tired,Never,Strong,Medium,Poor,1,6.127256571127788
+16 - 21,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Sometimes,Weak,Medium,Poor,1,7.479959367751763
+22 - 30,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Often tired,Never,Strong,Low,Poor,1,6.5614061936341805
+30 - 45,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,Daily,Unstable,Often tired,Frequently,Strong,Medium,Poor,1,6.555963220600336
+30 - 45,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Sometimes,Moderate,Medium,Good,1,7.219199350886254
+16 - 21,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Often tired,Sometimes,Weak,Medium,Average,0,6.339711232825521
+45 - 60,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,Never,Stable,Exhausted,Frequently,Strong,Medium,Poor,0,5.192691988731923
+16 - 21,Female,Less than 7 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Exhausted,Frequently,Moderate,Medium,Average,0,5.193906403792456
+16 - 21,Male,More than 10 hours,More than 6 hours,Less than 4 hours,Daily,Unstable,Exhausted,Frequently,Strong,Medium,Good,0,5.9750024962194965
+22 - 30,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Fresh,Never,Strong,High,Good,0,5.404435881779614
+22 - 30,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Never,Unstable,Occasionally tired,Frequently,Strong,Low,Poor,1,7.420872866075788
+16 - 21,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Stable,Often tired,Never,Strong,Medium,Good,1,7.479001595734307
+30 - 45,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Fresh,Sometimes,Strong,Low,Average,2,7.636006949943727
+22 - 30,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Often tired,Sometimes,Strong,High,Poor,1,7.130067277888412
+45 - 60,Female,More than 10 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Fresh,Frequently,Moderate,Medium,Poor,0,4.949209645879964
+22 - 30,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,Daily,Neutral,Fresh,Never,Strong,Low,Average,2,7.220103849055354
+22 - 30,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Exhausted,Frequently,Weak,Medium,Poor,0,5.404879032265387
+45 - 60,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Frequently,Moderate,Medium,Poor,0,4.781714040759599
+16 - 21,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Fresh,Never,Weak,Medium,Average,1,6.564389378296374
+45 - 60,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Neutral,Exhausted,Frequently,Strong,Medium,Poor,2,7.455870325083883
+16 - 21,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Fresh,Sometimes,Weak,Medium,Poor,0,4.852773973012447
+16 - 21,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Occasionally tired,Frequently,Strong,Medium,Average,2,7.854215577252512
+16 - 21,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Neutral,Exhausted,Never,Strong,Medium,Good,0,5.496735545478959
+45 - 60,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,Daily,Neutral,Exhausted,Never,Moderate,High,Average,0,5.337850899009096
+16 - 21,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Exhausted,Sometimes,Moderate,High,Poor,0,6.3296918021362
+30 - 45,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Strong,Medium,Average,0,5.224787798233266
+45 - 60,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Fresh,Never,Moderate,Medium,Poor,1,6.125251075048003
+30 - 45,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,Daily,Unstable,Often tired,Sometimes,Weak,High,Poor,0,5.661176700556087
+16 - 21,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Exhausted,Frequently,Moderate,High,Average,0,5.76452857583906
+22 - 30,Female,9 - 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Unstable,Fresh,Sometimes,Moderate,High,Poor,0,4.526188913176667
+16 - 21,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Frequently,Weak,Medium,Good,1,7.165720373891155
+30 - 45,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,Never,Stable,Often tired,Sometimes,Moderate,Low,Poor,0,5.827074744033421
+30 - 45,Male,More than 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Exhausted,Frequently,Strong,Low,Average,1,6.837606374603707
+45 - 60,Male,9 - 10 hours,More than 6 hours,6 - 8 hours,Never,Stable,Occasionally tired,Sometimes,Weak,Low,Good,2,8.636029531844986
+22 - 30,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Occasionally tired,Frequently,Strong,Low,Good,2,8.721461166512686
+45 - 60,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Sometimes,Weak,Medium,Poor,0,4.856071933739503
+30 - 45,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,Daily,Stable,Fresh,Frequently,Strong,Low,Average,2,7.013904261062382
+16 - 21,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,Never,Stable,Exhausted,Sometimes,Strong,High,Poor,1,6.636333013870464
+22 - 30,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,Never,Stable,Exhausted,Never,Moderate,High,Poor,0,6.42214063493891
+16 - 21,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Unstable,Fresh,Frequently,Strong,Low,Average,1,7.3595315776421035
+16 - 21,Female,Less than 7 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Fresh,Sometimes,Moderate,High,Average,1,6.166796223459227
+22 - 30,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,Never,Unstable,Fresh,Frequently,Weak,Medium,Poor,0,4.7973254555062255
+45 - 60,Male,More than 10 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Neutral,Often tired,Frequently,Strong,Low,Good,0,5.329248247454047
+16 - 21,Male,Less than 7 hours,More than 6 hours,4 - 6 hours,Daily,Neutral,Often tired,Sometimes,Strong,Low,Poor,2,8.021494605155132
+30 - 45,Female,9 - 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Frequently,Weak,Medium,Good,1,6.738937656436288
+16 - 21,Female,9 - 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Often tired,Sometimes,Weak,High,Poor,0,4.670699336157288
+22 - 30,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Occasionally tired,Never,Strong,Medium,Average,0,6.4937485036918945
+22 - 30,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Weak,Medium,Good,1,6.0170304671511285
+22 - 30,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,Never,Unstable,Often tired,Never,Moderate,High,Average,0,5.504390020662485
+45 - 60,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Fresh,Frequently,Weak,Medium,Average,0,5.690770034640088
+16 - 21,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Frequently,Weak,High,Average,0,4.634152954776855
+45 - 60,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Fresh,Frequently,Strong,High,Average,1,6.70299096299119
+45 - 60,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Unstable,Exhausted,Sometimes,Moderate,Medium,Average,1,6.084454913522756
+22 - 30,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,Never,Stable,Fresh,Never,Weak,High,Poor,0,5.999920940798356
+22 - 30,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Frequently,Moderate,Medium,Good,1,6.178226874402108
+45 - 60,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Often tired,Sometimes,Moderate,High,Poor,0,4.919811186191172
+16 - 21,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Exhausted,Frequently,Moderate,Low,Poor,0,6.2961085788814275
+30 - 45,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,Never,Unstable,Fresh,Sometimes,Strong,High,Poor,0,4.910279280964014
+45 - 60,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Stable,Exhausted,Frequently,Weak,High,Average,0,4.881375441327333
+16 - 21,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Fresh,Never,Strong,Medium,Poor,2,7.834822006297558
+22 - 30,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Weak,High,Good,2,7.444215620941461
+22 - 30,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,Never,Stable,Often tired,Frequently,Weak,Low,Poor,1,6.176289370165657
+16 - 21,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Sometimes,Strong,Low,Average,1,6.973815453174096
+30 - 45,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently,Moderate,High,Good,2,7.239730734667366
+22 - 30,Female,More than 10 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes,Moderate,High,Good,0,4.57309933569619
+22 - 30,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Neutral,Exhausted,Frequently,Weak,Low,Good,1,7.119067318898135
+22 - 30,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Exhausted,Sometimes,Strong,Medium,Good,0,5.444133890219998
+16 - 21,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Moderate,Low,Poor,0,5.629682266525233
+45 - 60,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Stable,Fresh,Frequently,Moderate,Low,Average,0,4.631417278856705
+22 - 30,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Daily,Neutral,Occasionally tired,Never,Weak,High,Good,1,6.8750531476457395
+45 - 60,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,Never,Unstable,Exhausted,Never,Weak,High,Good,0,6.051055233390021
+30 - 45,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Frequently,Strong,Low,Average,2,7.6752303428072555
+22 - 30,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Fresh,Frequently,Weak,Medium,Poor,0,5.4065776694960554
+22 - 30,Male,More than 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Often tired,Sometimes,Moderate,Low,Good,1,7.443258822711813
+30 - 45,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Unstable,Often tired,Sometimes,Moderate,Low,Poor,0,5.54878053865516
+22 - 30,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Never,Moderate,Medium,Poor,0,5.381525493876456
+45 - 60,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,Never,Stable,Fresh,Sometimes,Moderate,Low,Poor,1,6.562305869285556
+16 - 21,Male,More than 10 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Sometimes,Strong,Low,Poor,0,5.301526121750652
+45 - 60,Male,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Frequently,Strong,High,Good,0,5.619280662616436
+16 - 21,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes,Weak,Medium,Good,0,4.810480491861425
+16 - 21,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Fresh,Never,Weak,High,Poor,0,4.863856260990542
+45 - 60,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,Never,Unstable,Exhausted,Sometimes,Weak,High,Poor,0,6.223571242027035
+45 - 60,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Occasionally tired,Never,Strong,Medium,Average,2,8.88581940782504
+45 - 60,Female,More than 10 hours,Less than 2 hours,More than 8 hours,Daily,Stable,Exhausted,Frequently,Moderate,Medium,Average,1,6.428568129422791
+45 - 60,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Exhausted,Never,Weak,Low,Average,0,6.392230924267265
+30 - 45,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Neutral,Often tired,Sometimes,Moderate,High,Good,1,7.30289869228419
+22 - 30,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Frequently,Weak,Medium,Average,0,5.246618632559506
+16 - 21,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Unstable,Fresh,Sometimes,Weak,High,Good,0,5.041489346287108
+45 - 60,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Often tired,Frequently,Weak,High,Good,0,5.787999086478031
+45 - 60,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Often tired,Frequently,Weak,Medium,Good,0,5.317468342196193
+45 - 60,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,Never,Stable,Often tired,Sometimes,Weak,Low,Good,1,6.335393757779179
+30 - 45,Female,7 - 8 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Sometimes,Moderate,High,Average,0,4.55077271132069
+45 - 60,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,Never,Neutral,Occasionally tired,Frequently,Weak,Medium,Poor,0,4.812305194732381
+45 - 60,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Never,Neutral,Exhausted,Frequently,Moderate,Low,Poor,1,7.444833809160917
+45 - 60,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Often tired,Sometimes,Strong,High,Poor,0,5.9319444576947955
+22 - 30,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Never,Weak,Medium,Average,0,5.817847883820303
+30 - 45,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Fresh,Sometimes,Moderate,High,Poor,1,6.018231712034725
+45 - 60,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Stable,Exhausted,Frequently,Strong,Medium,Average,0,4.554191985006967
+16 - 21,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Never,Neutral,Fresh,Sometimes,Strong,Medium,Average,1,7.454818240061458
+16 - 21,Female,Less than 7 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Exhausted,Never,Strong,High,Average,0,4.943944323865899
+16 - 21,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,Daily,Neutral,Exhausted,Sometimes,Moderate,High,Poor,1,6.064739867925864
+30 - 45,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Occasionally tired,Frequently,Weak,Medium,Poor,0,4.962149593176143
+30 - 45,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,Daily,Stable,Occasionally tired,Sometimes,Weak,Low,Poor,2,7.64640586404151
+16 - 21,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Fresh,Frequently,Moderate,High,Good,0,5.843785487197457
+45 - 60,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Exhausted,Frequently,Weak,Medium,Average,1,7.3367146705471065
+30 - 45,Female,9 - 10 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Unstable,Often tired,Sometimes,Moderate,Medium,Good,0,4.539421075508728
+16 - 21,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Occasionally tired,Frequently,Weak,Low,Average,0,4.708217163969148
+16 - 21,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Frequently,Strong,Low,Poor,0,6.099832170746379
+45 - 60,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Fresh,Never,Weak,Low,Average,1,6.79155166362945
+22 - 30,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Moderate,High,Average,0,4.857089324108667
+30 - 45,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Moderate,Medium,Good,2,8.037581243486732
+45 - 60,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Exhausted,Never,Strong,Medium,Average,1,7.48944719417895
+16 - 21,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Fresh,Frequently,Moderate,Medium,Poor,0,5.805492215703749
+16 - 21,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Daily,Stable,Exhausted,Sometimes,Weak,Low,Average,1,6.110694847103098
+45 - 60,Male,7 - 8 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Frequently,Weak,Medium,Average,2,8.406037917790355
+30 - 45,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Fresh,Frequently,Strong,High,Average,1,6.830781426601981
+22 - 30,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Stable,Occasionally tired,Frequently,Moderate,Low,Good,2,7.727259204758588
+22 - 30,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Stable,Fresh,Sometimes,Strong,Low,Average,2,8.943564165441922
+16 - 21,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Weak,Low,Average,1,7.453953803428648
+30 - 45,Female,Less than 7 hours,4 - 6 hours,4 - 6 hours,Daily,Neutral,Often tired,Frequently,Strong,Low,Good,2,8.924894589884222
+22 - 30,Female,7 - 8 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Often tired,Frequently,Moderate,High,Good,1,6.784646766255223
+30 - 45,Female,Less than 7 hours,More than 6 hours,4 - 6 hours,Never,Neutral,Exhausted,Never,Strong,Medium,Good,1,6.944097957202894
+30 - 45,Male,Less than 7 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Unstable,Often tired,Frequently,Moderate,High,Good,0,4.976365562093453
+16 - 21,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Sometimes,Moderate,Medium,Poor,1,7.043623033476926
+22 - 30,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently,Weak,High,Poor,0,4.69888278551869
+45 - 60,Female,More than 10 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Frequently,Weak,Low,Average,0,4.986344381998908
+16 - 21,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,Daily,Neutral,Exhausted,Never,Weak,Low,Poor,1,6.681811597151659
+22 - 30,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Frequently,Moderate,High,Average,0,5.944533863711318
+22 - 30,Male,7 - 8 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Stable,Fresh,Frequently,Strong,High,Poor,0,6.2113929362125715
+22 - 30,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Daily,Unstable,Fresh,Sometimes,Moderate,Medium,Good,1,6.941337120126095
+22 - 30,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Fresh,Never,Weak,High,Good,0,6.160439729133984
+22 - 30,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,Never,Neutral,Often tired,Never,Weak,High,Poor,0,5.29436705923691
+30 - 45,Male,More than 10 hours,2 - 4 hours,More than 8 hours,Daily,Unstable,Often tired,Sometimes,Strong,Medium,Poor,0,5.836170273141292
+16 - 21,Male,7 - 8 hours,4 - 6 hours,4 - 6 hours,Never,Unstable,Often tired,Frequently,Weak,Medium,Average,0,4.909968590831642
+30 - 45,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,Daily,Stable,Fresh,Never,Weak,Medium,Average,1,6.876471467884651
+45 - 60,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Exhausted,Never,Weak,High,Average,0,5.0862954605220265
+22 - 30,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Frequently,Strong,Medium,Good,2,7.503564591650728
+16 - 21,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Frequently,Moderate,Low,Good,1,7.351737015736483
+22 - 30,Male,Less than 7 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Stable,Exhausted,Never,Weak,Low,Good,2,7.994497011784771
+16 - 21,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Occasionally tired,Frequently,Strong,Low,Good,2,7.601756619633539
+30 - 45,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Weak,High,Average,0,6.29267163704224
+16 - 21,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,Never,Stable,Occasionally tired,Frequently,Strong,Low,Good,2,7.569680988754936
+45 - 60,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Weak,High,Good,0,4.526003847021472
+45 - 60,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,Daily,Unstable,Exhausted,Sometimes,Strong,High,Good,1,6.068169570512187
+16 - 21,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Fresh,Frequently,Weak,Low,Good,2,7.073773894709065
+16 - 21,Male,9 - 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Neutral,Exhausted,Sometimes,Moderate,Medium,Poor,1,6.4214447843883455
+16 - 21,Male,Less than 7 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Frequently,Weak,High,Average,0,4.671017061708936
+16 - 21,Male,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Exhausted,Never,Strong,Low,Average,0,4.915772510292054
+45 - 60,Female,More than 10 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Never,Weak,High,Good,0,4.553064407747639
+22 - 30,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Frequently,Moderate,Medium,Poor,0,4.862870870179595
+16 - 21,Female,More than 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Fresh,Frequently,Weak,Medium,Average,1,7.425617226114838
+16 - 21,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Often tired,Never,Strong,Low,Average,2,8.219128667959794
+45 - 60,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Often tired,Frequently,Strong,High,Good,0,5.666083121939384
+45 - 60,Female,9 - 10 hours,Less than 2 hours,Less than 4 hours,Daily,Stable,Exhausted,Sometimes,Moderate,High,Good,0,5.342849101184996
+30 - 45,Female,9 - 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Fresh,Sometimes,Strong,High,Average,1,7.3353956758363745
+16 - 21,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,Never,Neutral,Often tired,Sometimes,Weak,High,Average,0,6.28534342215395
+30 - 45,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,Daily,Unstable,Often tired,Sometimes,Weak,Low,Poor,0,6.134887123476882
+45 - 60,Female,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Stable,Fresh,Sometimes,Weak,Medium,Average,1,6.683485129178569
+45 - 60,Female,7 - 8 hours,More than 6 hours,More than 8 hours,Never,Unstable,Exhausted,Frequently,Strong,Low,Average,1,6.930198896702305
+22 - 30,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Often tired,Frequently,Weak,High,Good,1,6.416071774471699
+16 - 21,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,Daily,Stable,Occasionally tired,Sometimes,Weak,High,Average,0,5.183634703395752
+30 - 45,Female,7 - 8 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Often tired,Frequently,Weak,Medium,Good,2,8.005358046457722
+45 - 60,Female,Less than 7 hours,Less than 2 hours,Less than 4 hours,Daily,Neutral,Occasionally tired,Frequently,Moderate,High,Average,1,6.282181739585642
+45 - 60,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Sometimes,Strong,Low,Average,2,7.1029575024999785
+30 - 45,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Frequently,Strong,Low,Average,0,5.018846866862585
+22 - 30,Male,7 - 8 hours,More than 6 hours,Less than 4 hours,Never,Neutral,Fresh,Frequently,Strong,Medium,Poor,1,6.695547607409973
+45 - 60,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,Never,Unstable,Fresh,Frequently,Moderate,Low,Good,2,7.557292928473223
+16 - 21,Male,Less than 7 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Sometimes,Strong,Low,Poor,2,8.816531771933308
+45 - 60,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Exhausted,Frequently,Moderate,Low,Average,1,6.5300283420390794
+16 - 21,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Exhausted,Never,Moderate,Low,Poor,0,5.259384816334534
+30 - 45,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,Daily,Neutral,Fresh,Never,Strong,High,Good,1,6.8754841677763086
+16 - 21,Male,9 - 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Neutral,Often tired,Sometimes,Weak,Low,Average,1,6.116601955447477
+30 - 45,Female,More than 10 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Exhausted,Never,Weak,Medium,Poor,0,5.680589885029615
+16 - 21,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,Never,Neutral,Fresh,Sometimes,Strong,Medium,Poor,1,7.46159221149925
+30 - 45,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Strong,Low,Good,2,7.479123781333945
+16 - 21,Male,More than 10 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Neutral,Often tired,Never,Moderate,Medium,Poor,0,5.0361272816457525
+22 - 30,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Never,Strong,Low,Good,2,7.289789744182446
+16 - 21,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes,Moderate,Medium,Average,1,7.479316116719405
+16 - 21,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,Never,Unstable,Exhausted,Sometimes,Strong,Medium,Average,0,5.748297815698268
+22 - 30,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,Never,Stable,Exhausted,Frequently,Weak,Low,Poor,0,5.318823304382481
+45 - 60,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,Never,Neutral,Exhausted,Sometimes,Weak,Low,Average,0,5.604094361703961
+45 - 60,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Often tired,Never,Strong,High,Average,0,5.372253058270633
+16 - 21,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,Daily,Unstable,Occasionally tired,Never,Moderate,Low,Poor,0,5.088931519083835
+22 - 30,Female,Less than 7 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Unstable,Often tired,Sometimes,Weak,Low,Average,0,6.396906613924314
+16 - 21,Female,More than 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes,Moderate,High,Poor,0,6.027211588319521
+30 - 45,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Stable,Occasionally tired,Sometimes,Strong,Low,Good,2,7.978905520555126
+30 - 45,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,Never,Neutral,Often tired,Frequently,Strong,Low,Good,2,8.9713009082212
+16 - 21,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Often tired,Never,Weak,High,Good,0,4.780226351532905
+45 - 60,Male,More than 10 hours,Less than 2 hours,More than 8 hours,Daily,Unstable,Fresh,Frequently,Strong,Low,Poor,2,7.484110543023001
+45 - 60,Female,More than 10 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Stable,Often tired,Frequently,Weak,Low,Poor,1,7.047242571029617
+16 - 21,Male,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Exhausted,Never,Moderate,High,Average,0,6.236935951795825
+16 - 21,Female,More than 10 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Stable,Often tired,Never,Weak,High,Average,0,5.474862396499027
+30 - 45,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,Never,Stable,Occasionally tired,Sometimes,Weak,Medium,Average,0,6.289104453788183
+45 - 60,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,Never,Neutral,Often tired,Sometimes,Moderate,Low,Average,0,6.099710511894631
+16 - 21,Male,7 - 8 hours,4 - 6 hours,6 - 8 hours,Daily,Neutral,Fresh,Frequently,Weak,Medium,Average,2,8.344271094811758
+30 - 45,Male,More than 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes,Weak,Medium,Poor,1,6.804144549516181
+45 - 60,Male,9 - 10 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Occasionally tired,Sometimes,Strong,High,Poor,1,6.464291424429492
+22 - 30,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Fresh,Never,Moderate,Low,Good,2,8.523239230657435
+30 - 45,Female,More than 10 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Unstable,Exhausted,Never,Weak,Low,Good,0,5.350427008938467
+45 - 60,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes,Moderate,High,Good,0,4.544938616640235
+45 - 60,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,Daily,Unstable,Exhausted,Never,Moderate,Medium,Good,1,7.220692529560423
+30 - 45,Female,7 - 8 hours,More than 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Sometimes,Weak,High,Poor,2,7.4752750879848
+22 - 30,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,Daily,Neutral,Occasionally tired,Never,Strong,Low,Poor,2,8.456432697223718
+30 - 45,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Unstable,Exhausted,Never,Moderate,High,Poor,0,5.037354718769892
+45 - 60,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Weak,Low,Average,2,7.735566265438506
+16 - 21,Female,More than 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Unstable,Exhausted,Never,Moderate,Medium,Average,0,5.583268429321734
+16 - 21,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Daily,Neutral,Fresh,Sometimes,Strong,Low,Good,2,8.264611661187159
+30 - 45,Female,Less than 7 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Exhausted,Frequently,Strong,Medium,Average,1,7.027096758830819
+45 - 60,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,Never,Stable,Fresh,Never,Strong,Medium,Poor,1,6.243925409017337
+16 - 21,Female,9 - 10 hours,4 - 6 hours,6 - 8 hours,Never,Neutral,Occasionally tired,Sometimes,Weak,Low,Good,2,8.26705942152179
+45 - 60,Female,9 - 10 hours,2 - 4 hours,4 - 6 hours,Never,Neutral,Exhausted,Sometimes,Weak,Low,Good,1,7.366390776740763
+30 - 45,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Strong,Medium,Average,1,7.233805864384753
+16 - 21,Female,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Exhausted,Frequently,Weak,High,Good,0,5.7669564396522945
+45 - 60,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,1 - 2 times per week,Neutral,Fresh,Never,Strong,Low,Average,2,8.071549368149517
+16 - 21,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Fresh,Sometimes,Weak,Medium,Average,0,5.015775370866405
+30 - 45,Female,Less than 7 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Exhausted,Frequently,Strong,Medium,Good,1,7.424699869937886
+45 - 60,Female,Less than 7 hours,4 - 6 hours,6 - 8 hours,Never,Stable,Fresh,Sometimes,Moderate,High,Average,1,7.08857926258254
+16 - 21,Female,Less than 7 hours,Less than 2 hours,4 - 6 hours,Never,Unstable,Occasionally tired,Never,Strong,Low,Average,1,6.920122793903685
+30 - 45,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Frequently,Strong,Medium,Average,0,4.778712148145648
+16 - 21,Female,7 - 8 hours,2 - 4 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Sometimes,Weak,High,Average,0,6.1698604735985985
+16 - 21,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Fresh,Sometimes,Weak,Medium,Good,1,6.627364554435928
+22 - 30,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes,Weak,Low,Poor,2,7.180579540108816
+22 - 30,Female,More than 10 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Exhausted,Never,Weak,High,Poor,0,6.468804361407104
+30 - 45,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Neutral,Fresh,Frequently,Weak,Medium,Average,1,7.39909272503102
+22 - 30,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Never,Weak,High,Average,0,5.551380364605372
+30 - 45,Male,More than 10 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Fresh,Never,Moderate,Low,Average,1,7.299095834250613
+22 - 30,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Stable,Exhausted,Never,Strong,High,Poor,0,4.843358571696607
+16 - 21,Female,9 - 10 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Frequently,Strong,Low,Average,0,5.044614653038738
+30 - 45,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Often tired,Never,Strong,Medium,Good,1,6.067828005159284
+30 - 45,Female,7 - 8 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Often tired,Never,Moderate,Low,Good,2,8.670604991178475
+16 - 21,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,Daily,Neutral,Fresh,Never,Strong,Medium,Good,2,7.641560129943471
+30 - 45,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Daily,Unstable,Exhausted,Never,Moderate,Medium,Poor,0,4.536781353094933
+30 - 45,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Occasionally tired,Sometimes,Moderate,Low,Average,2,7.373037020799709
+22 - 30,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Exhausted,Never,Moderate,Medium,Average,0,6.328597613120998
+30 - 45,Male,9 - 10 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes,Strong,High,Average,0,4.735502165780282
+45 - 60,Female,9 - 10 hours,More than 6 hours,More than 8 hours,Never,Unstable,Fresh,Never,Moderate,Medium,Poor,0,5.653032951028507
+16 - 21,Female,More than 10 hours,2 - 4 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Frequently,Strong,Low,Poor,0,5.048110441374412
+22 - 30,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Exhausted,Sometimes,Strong,High,Poor,0,5.608356005031586
+22 - 30,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,Daily,Unstable,Exhausted,Sometimes,Weak,High,Poor,0,5.802840776703729
+45 - 60,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Unstable,Fresh,Sometimes,Weak,Medium,Good,1,6.039550461745878
+16 - 21,Female,9 - 10 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Sometimes,Moderate,Medium,Poor,0,6.159483607414403
+16 - 21,Female,More than 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Stable,Occasionally tired,Frequently,Moderate,Low,Poor,1,6.5646950503170745
+22 - 30,Male,7 - 8 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Stable,Fresh,Never,Strong,High,Poor,1,7.215829996172749
+30 - 45,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes,Moderate,Low,Average,1,7.480914193972417
+22 - 30,Female,9 - 10 hours,2 - 4 hours,4 - 6 hours,Daily,Unstable,Exhausted,Frequently,Moderate,Medium,Average,0,4.912842543521206
+16 - 21,Male,More than 10 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Fresh,Sometimes,Strong,High,Average,1,6.225625336655292
+45 - 60,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Occasionally tired,Never,Moderate,Low,Good,2,7.081550283109528
+22 - 30,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Sometimes,Moderate,Low,Good,2,8.181785886376483
+16 - 21,Female,More than 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Stable,Exhausted,Frequently,Strong,Low,Poor,1,6.891196073028203
+22 - 30,Female,More than 10 hours,More than 6 hours,More than 8 hours,Never,Unstable,Often tired,Never,Strong,Low,Average,0,4.521991657316961
+30 - 45,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Exhausted,Frequently,Weak,Low,Good,1,6.571336284946533
+22 - 30,Male,7 - 8 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Strong,High,Average,1,7.454871596721905
+22 - 30,Female,More than 10 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Fresh,Never,Weak,Low,Good,1,7.263178384703563
+16 - 21,Female,9 - 10 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Stable,Often tired,Never,Moderate,High,Good,0,4.7737712601376145
+16 - 21,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Unstable,Exhausted,Sometimes,Strong,Low,Poor,0,6.30003728369621
+16 - 21,Female,7 - 8 hours,2 - 4 hours,Less than 4 hours,Never,Neutral,Exhausted,Frequently,Strong,Medium,Poor,1,7.257493057066707
+22 - 30,Female,Less than 7 hours,More than 6 hours,Less than 4 hours,Never,Unstable,Exhausted,Frequently,Strong,Medium,Good,1,6.703039739692455
+30 - 45,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Frequently,Moderate,Low,Poor,1,6.6222292535064975
+45 - 60,Male,9 - 10 hours,More than 6 hours,Less than 4 hours,Daily,Unstable,Often tired,Never,Weak,Medium,Good,0,6.247780155125031
+45 - 60,Male,More than 10 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Sometimes,Moderate,High,Good,1,6.410110607896059
+16 - 21,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Often tired,Never,Moderate,Low,Average,1,6.0845632449763905
+16 - 21,Female,More than 10 hours,2 - 4 hours,6 - 8 hours,Never,Stable,Fresh,Frequently,Strong,High,Poor,0,5.694826204340616
+22 - 30,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes,Weak,Low,Poor,2,8.355128723684565
+45 - 60,Male,Less than 7 hours,4 - 6 hours,6 - 8 hours,Never,Stable,Occasionally tired,Sometimes,Moderate,Medium,Poor,1,7.2970835643825795
+16 - 21,Male,9 - 10 hours,More than 6 hours,6 - 8 hours,Never,Stable,Fresh,Sometimes,Strong,High,Average,0,5.701033720867307
+30 - 45,Female,7 - 8 hours,More than 6 hours,4 - 6 hours,1 - 2 times per week,Stable,Often tired,Frequently,Moderate,Medium,Average,0,5.830073349092511
+30 - 45,Female,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Exhausted,Sometimes,Moderate,Medium,Average,0,4.8507425572469
+16 - 21,Male,7 - 8 hours,More than 6 hours,More than 8 hours,Never,Unstable,Fresh,Sometimes,Strong,Low,Poor,1,7.219351513695116
+16 - 21,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Stable,Exhausted,Never,Strong,High,Poor,1,7.499576509929196
+45 - 60,Male,9 - 10 hours,More than 6 hours,6 - 8 hours,Never,Stable,Exhausted,Never,Weak,Medium,Poor,0,6.32882389184992
+45 - 60,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,3 - 4 times per week,Neutral,Fresh,Sometimes,Moderate,Low,Average,1,7.494955255610858
+22 - 30,Female,7 - 8 hours,4 - 6 hours,Less than 4 hours,Daily,Neutral,Often tired,Sometimes,Strong,Low,Average,1,6.833147558403941
+45 - 60,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,Never,Unstable,Exhausted,Never,Strong,Low,Good,0,5.3375410497841465
+30 - 45,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Fresh,Never,Weak,Medium,Average,1,7.153481122770765
+30 - 45,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Occasionally tired,Never,Weak,Low,Good,2,7.033175657855712
+16 - 21,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,Daily,Stable,Occasionally tired,Frequently,Strong,High,Poor,2,8.024186116598562
+45 - 60,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Occasionally tired,Frequently,Weak,High,Average,0,5.2662770564989945
+22 - 30,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Fresh,Never,Strong,Medium,Poor,1,7.417148594823642
+30 - 45,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Sometimes,Moderate,High,Poor,1,7.274471086016117
+30 - 45,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Daily,Unstable,Exhausted,Never,Weak,Low,Poor,1,6.371022152614796
+22 - 30,Female,9 - 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Frequently,Moderate,Medium,Poor,2,7.4529915503958755
+22 - 30,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes,Moderate,Low,Average,1,6.67581620296514
+30 - 45,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,1 - 2 times per week,Neutral,Exhausted,Frequently,Moderate,Medium,Poor,0,5.537835410565675
+30 - 45,Female,More than 10 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Occasionally tired,Sometimes,Strong,Medium,Good,1,6.1937391227272425
+22 - 30,Male,9 - 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Moderate,Low,Average,1,7.431076540888084
+30 - 45,Female,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes,Moderate,High,Poor,1,6.90926195167632
+16 - 21,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes,Moderate,High,Average,0,4.59393193355011
+16 - 21,Female,7 - 8 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Sometimes,Strong,Medium,Good,2,8.290345580818899
+22 - 30,Female,More than 10 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Exhausted,Sometimes,Moderate,Low,Poor,0,4.832566737512159
+45 - 60,Female,Less than 7 hours,Less than 2 hours,6 - 8 hours,1 - 2 times per week,Stable,Fresh,Frequently,Moderate,Low,Good,2,7.348732858009983
+22 - 30,Female,Less than 7 hours,2 - 4 hours,4 - 6 hours,Never,Neutral,Exhausted,Frequently,Weak,Medium,Poor,0,5.976067232852741
+22 - 30,Female,9 - 10 hours,More than 6 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Sometimes,Strong,High,Good,0,4.6655973358502525
+45 - 60,Female,9 - 10 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Sometimes,Moderate,Low,Poor,1,6.342964208255194
+45 - 60,Male,More than 10 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Often tired,Frequently,Weak,High,Average,0,5.706304218932776
+45 - 60,Male,7 - 8 hours,4 - 6 hours,Less than 4 hours,Never,Neutral,Exhausted,Sometimes,Strong,High,Poor,0,4.990698219362642
+16 - 21,Male,Less than 7 hours,4 - 6 hours,Less than 4 hours,Never,Neutral,Fresh,Sometimes,Strong,Medium,Average,1,7.007551026608785
+30 - 45,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Never,Unstable,Exhausted,Sometimes,Strong,Medium,Poor,0,5.278591228083953
+16 - 21,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Exhausted,Never,Strong,High,Poor,0,5.0773874735414
+30 - 45,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,1 - 2 times per week,Unstable,Fresh,Sometimes,Strong,Low,Good,2,8.381875476204932
+16 - 21,Female,7 - 8 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Unstable,Exhausted,Never,Strong,Low,Good,2,7.773470692601075
+30 - 45,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,Daily,Stable,Fresh,Sometimes,Moderate,Medium,Good,2,8.87345997747347
+16 - 21,Male,More than 10 hours,4 - 6 hours,Less than 4 hours,Daily,Unstable,Fresh,Frequently,Moderate,High,Poor,0,5.211345432929898
+45 - 60,Male,7 - 8 hours,4 - 6 hours,More than 8 hours,Never,Unstable,Exhausted,Never,Moderate,Low,Poor,0,5.9380918103684905
+22 - 30,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,3 - 4 times per week,Stable,Exhausted,Never,Moderate,Low,Poor,1,6.927192360686844
+16 - 21,Male,More than 10 hours,2 - 4 hours,6 - 8 hours,Never,Unstable,Occasionally tired,Sometimes,Weak,Medium,Average,0,5.09424343124635
+30 - 45,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Stable,Occasionally tired,Sometimes,Moderate,High,Average,1,6.537244077049261
+45 - 60,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,Never,Neutral,Often tired,Never,Strong,Low,Poor,1,6.170336388299443
+16 - 21,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,Daily,Stable,Often tired,Frequently,Moderate,Medium,Good,1,7.007359793389199
+16 - 21,Male,Less than 7 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Exhausted,Frequently,Moderate,Low,Good,2,7.2750418882919865
+45 - 60,Male,Less than 7 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Stable,Fresh,Sometimes,Strong,Low,Good,2,7.6821327021005175
+16 - 21,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Never,Unstable,Often tired,Frequently,Moderate,Low,Poor,0,5.632809280593794
+22 - 30,Male,More than 10 hours,2 - 4 hours,Less than 4 hours,3 - 4 times per week,Neutral,Exhausted,Frequently,Moderate,Medium,Good,1,6.78046155135569
+16 - 21,Female,Less than 7 hours,4 - 6 hours,Less than 4 hours,Daily,Stable,Often tired,Sometimes,Moderate,High,Poor,0,5.452100804398199
+22 - 30,Female,Less than 7 hours,Less than 2 hours,More than 8 hours,Never,Neutral,Fresh,Frequently,Weak,Medium,Average,2,7.226947042481179
+22 - 30,Male,Less than 7 hours,4 - 6 hours,4 - 6 hours,Never,Unstable,Exhausted,Sometimes,Moderate,High,Good,0,5.827342330725296
+45 - 60,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Fresh,Never,Strong,Low,Average,2,8.849387236557126
+16 - 21,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Neutral,Exhausted,Sometimes,Strong,High,Good,0,6.373659478649516
+45 - 60,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Stable,Often tired,Never,Moderate,Low,Poor,2,8.754678706761961
+16 - 21,Female,9 - 10 hours,2 - 4 hours,6 - 8 hours,Daily,Stable,Occasionally tired,Never,Moderate,Low,Poor,1,7.158477587603459
+16 - 21,Male,More than 10 hours,Less than 2 hours,Less than 4 hours,Daily,Unstable,Often tired,Frequently,Moderate,Medium,Poor,0,5.965144194420501
+30 - 45,Female,7 - 8 hours,2 - 4 hours,4 - 6 hours,Daily,Neutral,Often tired,Frequently,Strong,Low,Poor,2,7.515883255430311
+16 - 21,Male,Less than 7 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Occasionally tired,Frequently,Strong,Medium,Good,2,8.319968092068358
+45 - 60,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,Daily,Stable,Occasionally tired,Sometimes,Weak,High,Average,0,4.929880757181514
+22 - 30,Female,7 - 8 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Stable,Exhausted,Frequently,Weak,High,Poor,0,4.56236627012257
+16 - 21,Male,More than 10 hours,4 - 6 hours,6 - 8 hours,Never,Stable,Exhausted,Never,Weak,Low,Good,1,6.78024525166799
+30 - 45,Female,7 - 8 hours,Less than 2 hours,More than 8 hours,3 - 4 times per week,Neutral,Fresh,Frequently,Strong,Medium,Average,2,8.634444400402431
+45 - 60,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Stable,Fresh,Frequently,Weak,Low,Poor,1,7.27827225047781
+16 - 21,Male,7 - 8 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Often tired,Sometimes,Moderate,Medium,Average,1,6.827860258161728
+45 - 60,Female,7 - 8 hours,4 - 6 hours,4 - 6 hours,3 - 4 times per week,Unstable,Occasionally tired,Sometimes,Moderate,Medium,Poor,0,5.02452808859965
+30 - 45,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,Daily,Stable,Fresh,Never,Strong,Medium,Average,2,8.110401623198925
+30 - 45,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Stable,Often tired,Sometimes,Weak,High,Average,0,5.69015586140051
+45 - 60,Female,Less than 7 hours,4 - 6 hours,More than 8 hours,1 - 2 times per week,Neutral,Occasionally tired,Frequently,Moderate,Medium,Poor,2,8.059301156712014
+16 - 21,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,Never,Neutral,Exhausted,Sometimes,Strong,High,Good,0,4.6028516269685005
+22 - 30,Male,9 - 10 hours,Less than 2 hours,Less than 4 hours,1 - 2 times per week,Unstable,Often tired,Never,Weak,Medium,Average,0,5.492732494402473
+30 - 45,Male,Less than 7 hours,More than 6 hours,More than 8 hours,1 - 2 times per week,Stable,Exhausted,Frequently,Moderate,High,Poor,0,5.693685697833779
+16 - 21,Female,9 - 10 hours,Less than 2 hours,More than 8 hours,Never,Unstable,Fresh,Never,Weak,High,Average,0,5.168487781633922
+16 - 21,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,3 - 4 times per week,Neutral,Fresh,Sometimes,Strong,High,Average,1,6.84140695730308
+22 - 30,Female,More than 10 hours,Less than 2 hours,4 - 6 hours,Daily,Unstable,Occasionally tired,Sometimes,Weak,Low,Good,1,7.3149804039875175
+30 - 45,Female,7 - 8 hours,Less than 2 hours,4 - 6 hours,Daily,Neutral,Often tired,Never,Strong,Medium,Average,1,6.6052242993185954
+30 - 45,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Weak,Low,Average,1,6.201022842675961
+16 - 21,Male,9 - 10 hours,More than 6 hours,4 - 6 hours,Never,Unstable,Occasionally tired,Sometimes,Moderate,Medium,Poor,0,6.041824407491644
+16 - 21,Male,Less than 7 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Stable,Fresh,Sometimes,Strong,Medium,Poor,1,6.043174014470009
+22 - 30,Female,Less than 7 hours,More than 6 hours,6 - 8 hours,1 - 2 times per week,Unstable,Fresh,Frequently,Strong,Low,Good,2,7.483704581800904
+22 - 30,Male,9 - 10 hours,2 - 4 hours,6 - 8 hours,Never,Stable,Often tired,Sometimes,Strong,High,Average,0,4.713196506267543
+30 - 45,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,Never,Stable,Exhausted,Never,Weak,Medium,Average,0,4.6502755634716175
+45 - 60,Male,More than 10 hours,More than 6 hours,More than 8 hours,Never,Stable,Often tired,Sometimes,Weak,High,Average,0,5.956377512407206
+30 - 45,Male,7 - 8 hours,2 - 4 hours,More than 8 hours,Daily,Stable,Exhausted,Sometimes,Moderate,Low,Good,2,7.186205535611799
+16 - 21,Male,9 - 10 hours,4 - 6 hours,More than 8 hours,3 - 4 times per week,Unstable,Exhausted,Frequently,Strong,High,Average,0,5.490982632412397
+30 - 45,Female,9 - 10 hours,4 - 6 hours,More than 8 hours,Never,Neutral,Often tired,Never,Strong,Medium,Poor,0,5.876804792855472
+45 - 60,Female,Less than 7 hours,2 - 4 hours,More than 8 hours,Never,Neutral,Occasionally tired,Frequently,Weak,Medium,Good,2,8.794431515906654
+22 - 30,Male,9 - 10 hours,4 - 6 hours,4 - 6 hours,Never,Neutral,Often tired,Sometimes,Weak,Medium,Poor,0,5.3696546772074925
+45 - 60,Male,More than 10 hours,Less than 2 hours,6 - 8 hours,3 - 4 times per week,Unstable,Often tired,Sometimes,Moderate,Low,Poor,0,4.992804066478214
+45 - 60,Male,Less than 7 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Fresh,Frequently,Moderate,Medium,Good,2,8.80083611432666
+45 - 60,Male,Less than 7 hours,Less than 2 hours,4 - 6 hours,1 - 2 times per week,Neutral,Fresh,Frequently,Weak,Low,Poor,1,7.132705883510429
+22 - 30,Female,Less than 7 hours,More than 6 hours,More than 8 hours,Daily,Unstable,Often tired,Frequently,Strong,High,Average,0,6.1382046353484
+45 - 60,Male,Less than 7 hours,2 - 4 hours,4 - 6 hours,Never,Stable,Often tired,Never,Moderate,Medium,Good,1,6.930464327030197
+45 - 60,Female,More than 10 hours,Less than 2 hours,6 - 8 hours,Daily,Neutral,Fresh,Sometimes,Weak,Medium,Poor,1,7.056119652148835
+45 - 60,Female,Less than 7 hours,2 - 4 hours,Less than 4 hours,Daily,Stable,Exhausted,Frequently,Weak,Medium,Average,0,6.098831757937958
+16 - 21,Male,9 - 10 hours,2 - 4 hours,4 - 6 hours,1 - 2 times per week,Neutral,Often tired,Sometimes,Strong,High,Average,0,5.889392941708854
+45 - 60,Female,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Weak,Medium,Poor,1,6.319446242263366
+22 - 30,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,3 - 4 times per week,Neutral,Occasionally tired,Never,Weak,Low,Average,2,8.266202914546536
+45 - 60,Female,7 - 8 hours,More than 6 hours,6 - 8 hours,Daily,Stable,Occasionally tired,Never,Moderate,High,Good,2,7.678059582097402
+45 - 60,Female,9 - 10 hours,Less than 2 hours,6 - 8 hours,Daily,Unstable,Often tired,Never,Weak,High,Poor,0,5.044290274459925
+22 - 30,Male,9 - 10 hours,4 - 6 hours,6 - 8 hours,3 - 4 times per week,Stable,Exhausted,Sometimes,Weak,High,Average,0,5.680461333738174
+45 - 60,Male,More than 10 hours,More than 6 hours,More than 8 hours,3 - 4 times per week,Neutral,Exhausted,Never,Moderate,High,Average,0,5.221947793880053
+22 - 30,Female,7 - 8 hours,More than 6 hours,Less than 4 hours,1 - 2 times per week,Stable,Fresh,Never,Strong,High,Poor,0,4.683164146653269
+45 - 60,Male,7 - 8 hours,Less than 2 hours,6 - 8 hours,Never,Unstable,Often tired,Frequently,Strong,Low,Poor,0,6.334627150924486
+22 - 30,Male,7 - 8 hours,More than 6 hours,4 - 6 hours,Daily,Stable,Exhausted,Never,Moderate,High,Poor,0,4.773637261837923
+45 - 60,Male,7 - 8 hours,Less than 2 hours,Less than 4 hours,3 - 4 times per week,Unstable,Often tired,Frequently,Moderate,Medium,Poor,0,6.400474707641605
+45 - 60,Male,7 - 8 hours,2 - 4 hours,6 - 8 hours,Daily,Unstable,Fresh,Never,Strong,High,Good,1,6.204557213380155
+16 - 21,Male,Less than 7 hours,More than 6 hours,Less than 4 hours,Daily,Stable,Fresh,Never,Strong,High,Poor,1,6.021816998501823
+16 - 21,Female,9 - 10 hours,More than 6 hours,4 - 6 hours,3 - 4 times per week,Neutral,Fresh,Frequently,Strong,High,Good,1,6.525881338209896
+45 - 60,Male,Less than 7 hours,2 - 4 hours,6 - 8 hours,1 - 2 times per week,Unstable,Occasionally tired,Never,Strong,High,Good,1,6.88487653028195
+45 - 60,Male,7 - 8 hours,2 - 4 hours,4 - 6 hours,Daily,Stable,Often tired,Sometimes,Strong,High,Poor,0,5.392011545915912
+30 - 45,Male,More than 10 hours,2 - 4 hours,More than 8 hours,1 - 2 times per week,Unstable,Fresh,Sometimes,Moderate,Low,Good,1,6.5883660676495985
