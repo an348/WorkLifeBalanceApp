@@ -59,6 +59,7 @@ x_input = pd.DataFrame([row]).reindex(columns=feature_order, fill_value=1)
 # ---------- predict ----------
 # ---------- predict ----------
 # ---------- predict ----------
+# ---------- predict ----------
 if st.button("Predict"):
     try:
         st.write("🧩 Model Input Data:")
@@ -71,18 +72,18 @@ if st.button("Predict"):
         pred = pred_raw[0]
 
         # --- Fix incorrect label encoding ---
-        # --- Fix incorrect label encoding ---
-if isinstance(pred, (int, float)):
-    # Correct mapping according to model output
-    label_map = {0: "Poor", 1: "Moderate", 2: "Balanced"}
-    pred = label_map.get(int(pred), "Unknown")
-else:
-    # If text labels are reversed or inconsistent
-    if str(pred).lower().startswith("poor"):
-        pred = "Poor"
-    elif str(pred).lower().startswith("bal"):
-        pred = "Balanced"
-
+        if isinstance(pred, (int, float)):
+            # ✅ Correct mapping according to your model output
+            label_map = {0: "Poor", 1: "Moderate", 2: "Balanced"}
+            pred = label_map.get(int(pred), "Unknown")
+        else:
+            # ✅ If string labels are inconsistent or reversed
+            if str(pred).lower().startswith("poor"):
+                pred = "Poor"
+            elif str(pred).lower().startswith("bal"):
+                pred = "Balanced"
+            elif str(pred).lower().startswith("mod"):
+                pred = "Moderate"
 
         st.write(f"✅ Final interpreted label after mapping: {pred}")
 
@@ -97,16 +98,39 @@ else:
         st.markdown("---")
         st.subheader("Result")
 
+        # Output message based on prediction
         if pred == "Balanced":
             st.success("✅ Great! You have an excellent work–life balance.")
+            st.write("""
+            **Keep it up:**  
+            • Maintain consistent routines and healthy sleep.  
+            • Keep boundaries between work and personal time.  
+            • Do a quick weekly check-in to keep balance steady.
+            """)
         elif pred == "Moderate":
             st.warning("⚖️ You’re managing okay, but there’s room to improve.")
-        else:
+            st.write("""
+            **Try this:**  
+            • Set clearer work cut-off times and take short breaks.  
+            • Schedule one enjoyable activity daily (walk, music, hobby).  
+            • Protect a small window for family/social time.
+            """)
+        elif pred == "Poor":
             st.error("❌ Poor work–life balance detected.")
+            st.write("""
+            **Action plan:**  
+            • Aim for **7–8 hours** of sleep and reduce late-night screens.  
+            • Add **10–20 min** of light exercise or meditation daily.  
+            • Block **no-meeting / deep work** slots to reduce stress.  
+            • Spend time with family/friends to decompress.
+            """)
+        else:
+            st.warning("⚠️ Unexpected prediction result, please check your model mapping.")
 
         if conf is not None:
             st.caption(f"Model confidence: **{conf:.1f}%**")
 
     except Exception as e:
         st.error(f"⚠️ Prediction failed: {e}")
+
 
