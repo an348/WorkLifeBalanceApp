@@ -71,14 +71,18 @@ if st.button("Predict"):
         pred = pred_raw[0]
 
         # --- Fix incorrect label encoding ---
-        if isinstance(pred, (int, float)):
-            label_map = {0: "Balanced", 1: "Moderate", 2: "Poor"}
-            pred = label_map.get(int(pred), "Unknown")
-        else:
-            if str(pred).lower().startswith("poor"):
-                pred = "Balanced"
-            elif str(pred).lower().startswith("bal"):
-                pred = "Poor"
+        # --- Fix incorrect label encoding ---
+if isinstance(pred, (int, float)):
+    # Correct mapping according to model output
+    label_map = {0: "Poor", 1: "Moderate", 2: "Balanced"}
+    pred = label_map.get(int(pred), "Unknown")
+else:
+    # If text labels are reversed or inconsistent
+    if str(pred).lower().startswith("poor"):
+        pred = "Poor"
+    elif str(pred).lower().startswith("bal"):
+        pred = "Balanced"
+
 
         st.write(f"✅ Final interpreted label after mapping: {pred}")
 
