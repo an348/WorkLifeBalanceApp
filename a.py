@@ -41,9 +41,10 @@ pt = st.selectbox("Personal Time Satisfaction", ["Poor", "Average", "Good"], ind
 slp = st.slider("Average Sleep Hours", min_value=4.5, max_value=9.0, value=7.0, step=0.1)
 
 # ---------- mappings ----------
-ws_map = {'Low': 1, 'Medium': 2, 'High': 3}
+ws_map = {'Low': 3, 'Medium': 2, 'High': 1}
 sc_map = {'Weak': 1, 'Moderate': 2, 'Strong': 3}
 pt_map = {'Poor': 1, 'Average': 2, 'Good': 3}
+
 
 # ---------- prepare input ----------
 row = {
