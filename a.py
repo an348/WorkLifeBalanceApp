@@ -57,24 +57,24 @@ x_input = pd.DataFrame([row]).reindex(columns=feature_order, fill_value=1)
 
 # ---------- prediction ----------
 # ---------- predict ----------
+# ---------- predict ----------
 if st.button("Predict"):
     try:
         # Make prediction
         pred = model.predict(x_input)[0]
 
-       # --- Fix incorrect label encoding ---
-# Convert numeric or reversed labels into correct text
-if isinstance(pred, (int, float)):
-    # Reverse mapping because model outputs may be inverted
-    label_map = {0: "Balanced", 1: "Moderate", 2: "Poor"}
-    pred = label_map.get(int(pred), "Unknown")
-else:
-    # Reverse if string-based model output is flipped
-    if str(pred).lower().startswith("poor"):
-        pred = "Balanced"
-    elif str(pred).lower().startswith("bal"):
-        pred = "Poor"
-
+        # --- Fix incorrect label encoding ---
+        # Convert numeric or reversed labels into correct text
+        if isinstance(pred, (int, float)):
+            # Reverse mapping because model outputs may be inverted
+            label_map = {0: "Balanced", 1: "Moderate", 2: "Poor"}
+            pred = label_map.get(int(pred), "Unknown")
+        else:
+            # Reverse if string-based model output is flipped
+            if str(pred).lower().startswith("poor"):
+                pred = "Balanced"
+            elif str(pred).lower().startswith("bal"):
+                pred = "Poor"
 
         # Probability confidence
         if hasattr(model, "predict_proba"):
@@ -117,4 +117,5 @@ else:
 
     except Exception as e:
         st.error(f"⚠️ Prediction failed: {e}")
+
 
