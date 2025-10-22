@@ -60,6 +60,7 @@ x_input = pd.DataFrame([row]).reindex(columns=feature_order, fill_value=1)
 # ---------- predict ----------
 # ---------- predict ----------
 # ---------- predict ----------
+# ---------- predict ----------
 if st.button("Predict"):
     try:
         st.write("🧩 Model Input Data:")
@@ -72,18 +73,13 @@ if st.button("Predict"):
         pred = pred_raw[0]
 
         # --- Fix incorrect label encoding ---
+        # Your model returns numeric classes (0, 1, 2)
+        label_map = {0: "Poor", 1: "Moderate", 2: "Balanced"}
+
         if isinstance(pred, (int, float)):
-            # ✅ Correct mapping according to your model output
-            label_map = {0: "Poor", 1: "Moderate", 2: "Balanced"}
             pred = label_map.get(int(pred), "Unknown")
         else:
-            # ✅ If string labels are inconsistent or reversed
-            if str(pred).lower().startswith("poor"):
-                pred = "Poor"
-            elif str(pred).lower().startswith("bal"):
-                pred = "Balanced"
-            elif str(pred).lower().startswith("mod"):
-                pred = "Moderate"
+            pred = str(pred).strip().capitalize()
 
         st.write(f"✅ Final interpreted label after mapping: {pred}")
 
@@ -98,7 +94,7 @@ if st.button("Predict"):
         st.markdown("---")
         st.subheader("Result")
 
-        # Output message based on prediction
+        # ✅ Output message based on corrected prediction
         if pred == "Balanced":
             st.success("✅ Great! You have an excellent work–life balance.")
             st.write("""
@@ -125,12 +121,13 @@ if st.button("Predict"):
             • Spend time with family/friends to decompress.
             """)
         else:
-            st.warning("⚠️ Unexpected prediction result, please check your model mapping.")
+            st.warning(f"⚠️ Unexpected label '{pred}' received — please verify your model output.")
 
         if conf is not None:
             st.caption(f"Model confidence: **{conf:.1f}%**")
 
     except Exception as e:
         st.error(f"⚠️ Prediction failed: {e}")
+
 
 
