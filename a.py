@@ -62,18 +62,19 @@ if st.button("Predict"):
         # Make prediction
         pred = model.predict(x_input)[0]
 
-        # --- Fix incorrect label encoding ---
-        # Convert numeric or reversed labels into correct text
-        if isinstance(pred, (int, float)):
-            # If numeric encoding was used (0,1,2 etc.)
-            label_map = {0: "Poor", 1: "Moderate", 2: "Balanced"}
-            pred = label_map.get(int(pred), "Unknown")
-        else:
-            # If text labels are reversed or inconsistent
-            if str(pred).lower().startswith("poor"):
-                pred = "Balanced"
-            elif str(pred).lower().startswith("bal"):
-                pred = "Poor"
+       # --- Fix incorrect label encoding ---
+# Convert numeric or reversed labels into correct text
+if isinstance(pred, (int, float)):
+    # Reverse mapping because model outputs may be inverted
+    label_map = {0: "Balanced", 1: "Moderate", 2: "Poor"}
+    pred = label_map.get(int(pred), "Unknown")
+else:
+    # Reverse if string-based model output is flipped
+    if str(pred).lower().startswith("poor"):
+        pred = "Balanced"
+    elif str(pred).lower().startswith("bal"):
+        pred = "Poor"
+
 
         # Probability confidence
         if hasattr(model, "predict_proba"):
