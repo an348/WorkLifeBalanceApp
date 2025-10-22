@@ -71,11 +71,17 @@ if st.button("Predict"):
         # ---------- Fix label encoding ----------
         label_map = {0: "Poor", 1: "Moderate", 2: "Balanced"}
 
-        # Convert numeric output to readable label
-        if isinstance(pred, (int, float)):
-            pred_label = label_map.get(int(pred), "Unknown")
+        # Convert any output into a comparable string
+        pred_str = str(pred).strip().lower()
+
+        if pred_str in ["0", "poor", "poor work-life balance"]:
+            pred_label = "Poor"
+        elif pred_str in ["1", "moderate", "average"]:
+            pred_label = "Moderate"
+        elif pred_str in ["2", "balanced", "good work-life balance"]:
+            pred_label = "Balanced"
         else:
-            pred_label = str(pred).strip().capitalize()
+            pred_label = "Unknown"
 
         # ---------- Probability confidence ----------
         conf = None
@@ -83,7 +89,7 @@ if st.button("Predict"):
             proba = model.predict_proba(x_input)
             conf = float(np.max(proba) * 100)
 
-        # ---------- Display Result ----------
+        # ---------- Display result ----------
         st.markdown("---")
         st.subheader("Result")
 
@@ -118,12 +124,13 @@ if st.button("Predict"):
         else:
             st.warning("⚠️ Unexpected prediction result — please verify your model output.")
 
-        # ---------- Confidence Display ----------
+        # ---------- Confidence display ----------
         if conf is not None:
             st.caption(f"Model confidence: **{conf:.1f}%**")
 
     except Exception as e:
         st.error(f"⚠️ Prediction failed: {e}")
+
 
 
 
