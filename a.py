@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 import os
 
-# ---------- load model safely ----------
+# load model
 base_path = os.path.dirname(__file__)
 model_path = os.path.join(base_path, "worklife_rf_smote_bundle.pkl")
 
@@ -12,16 +12,16 @@ try:
     bundle = joblib.load(model_path)
     model = bundle["model"]
     feature_order = bundle["feature_order"]
-    # label_map = bundle.get("label_map", None)   # if you trained y as numbers
+    # label_map = bundle.get("label_map", None)
 except Exception as e:
-    st.error(f"❌ Model loading failed: {e}")
+    st.error(f" Model loading failed: {e}")
     st.stop()
 
 st.set_page_config(page_title="Work–Life Balance Predictor", page_icon="💼", layout="centered")
 st.title("💼 Work–Life Balance Predictor")
 st.caption("Predict your work–life balance level based on daily patterns")
 
-# ---------- sidebar instructions ----------
+# sidebar instructions
 with st.sidebar:
     st.header("How to use")
     st.write("""
@@ -32,7 +32,7 @@ with st.sidebar:
     st.markdown("---")
     st.write("Model: Random Forest + SMOTENC (balanced data)")
 
-# ---------- input fields ----------
+#  input fields
 st.subheader("Enter your details")
 
 ws = st.selectbox("Work Stress", ["Low", "Medium", "High"], index=1)
@@ -40,13 +40,13 @@ sc = st.selectbox("Social Connections", ["Weak", "Moderate", "Strong"], index=1)
 pt = st.selectbox("Personal Time Satisfaction", ["Poor", "Average", "Good"], index=1)
 slp = st.slider("Average Sleep Hours", min_value=4.5, max_value=9.0, value=7.0, step=0.1)
 
-# ---------- mappings ----------
+# mapping
 ws_map = {'Low': 3, 'Medium': 2, 'High': 1}
 sc_map = {'Weak': 1, 'Moderate': 2, 'Strong': 3}
 pt_map = {'Poor': 1, 'Average': 2, 'Good': 3}
 
 
-# ---------- prepare input ----------
+# prepare input 
 row = {
     "work stress": ws_map[ws],
     "social connections": sc_map[sc],
@@ -55,20 +55,14 @@ row = {
 }
 x_input = pd.DataFrame([row]).reindex(columns=feature_order, fill_value=1)
 
-# ---------- prediction ----------
-# ---------- predict ----------
-# ---------- predict ----------
-# ---------- predict ----------
-# ---------- predict ----------
-# ---------- predict ----------
-# ---------- predict ----------
+# prediction 
 if st.button("Predict"):
     try:
-        # ---------- Make prediction ----------
+        # Make prediction 
         pred_raw = model.predict(x_input)
         pred = pred_raw[0]
 
-        # ---------- Fix label encoding ----------
+        #  Fix label encoding
         label_map = {0: "Poor", 1: "Moderate", 2: "Balanced"}
 
         # Convert any output into a comparable string
@@ -83,13 +77,13 @@ if st.button("Predict"):
         else:
             pred_label = "Unknown"
 
-        # ---------- Probability confidence ----------
+        # Probability confidence 
         conf = None
         if hasattr(model, "predict_proba"):
             proba = model.predict_proba(x_input)
             conf = float(np.max(proba) * 100)
 
-        # ---------- Display result ----------
+        #  Display result
         st.markdown("---")
         st.subheader("Result")
 
@@ -124,7 +118,7 @@ if st.button("Predict"):
         else:
             st.warning("⚠️ Unexpected prediction result — please verify your model output.")
 
-        # ---------- Confidence display ----------
+        #  Confidence display
         if conf is not None:
             st.caption(f"Model confidence: **{conf:.1f}%**")
 
