@@ -56,6 +56,10 @@ row = {
 x_input = pd.DataFrame([row]).reindex(columns=feature_order, fill_value=0)
 
 # ---------- prediction ----------
+st.write("🧩 Model Input Data:")
+st.dataframe(x_input)
+
+        
 if st.button("Predict"):
     try:
         pred = model.predict(x_input)[0]
