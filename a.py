@@ -58,64 +58,51 @@ x_input = pd.DataFrame([row]).reindex(columns=feature_order, fill_value=1)
 # ---------- prediction ----------
 # ---------- predict ----------
 # ---------- predict ----------
+# ---------- predict ----------
 if st.button("Predict"):
     try:
+        st.write("🧩 Model Input Data:")
+        st.dataframe(x_input)
+
         # Make prediction
-        pred = model.predict(x_input)[0]
+        pred_raw = model.predict(x_input)
+        st.write(f"🔍 Raw prediction output from model: {pred_raw}")
+
+        pred = pred_raw[0]
 
         # --- Fix incorrect label encoding ---
-        # Convert numeric or reversed labels into correct text
         if isinstance(pred, (int, float)):
-            # Reverse mapping because model outputs may be inverted
             label_map = {0: "Balanced", 1: "Moderate", 2: "Poor"}
             pred = label_map.get(int(pred), "Unknown")
         else:
-            # Reverse if string-based model output is flipped
             if str(pred).lower().startswith("poor"):
                 pred = "Balanced"
             elif str(pred).lower().startswith("bal"):
                 pred = "Poor"
 
+        st.write(f"✅ Final interpreted label after mapping: {pred}")
+
         # Probability confidence
         if hasattr(model, "predict_proba"):
-            conf = float(np.max(model.predict_proba(x_input)) * 100)
+            proba = model.predict_proba(x_input)
+            st.write(f"📊 Prediction probabilities: {proba}")
+            conf = float(np.max(proba) * 100)
         else:
             conf = None
 
         st.markdown("---")
         st.subheader("Result")
 
-        # Output message based on prediction
         if pred == "Balanced":
             st.success("✅ Great! You have an excellent work–life balance.")
-            st.write("""
-            **Keep it up:**  
-            • Maintain consistent routines and healthy sleep.  
-            • Keep boundaries between work and personal time.  
-            • Do a quick weekly check-in to keep balance steady.
-            """)
         elif pred == "Moderate":
             st.warning("⚖️ You’re managing okay, but there’s room to improve.")
-            st.write("""
-            **Try this:**  
-            • Set clearer work cut-off time and take short breaks.  
-            • Schedule one enjoyable activity daily (walk, music, hobby).  
-            • Protect a small window for family/social time.
-            """)
         else:
             st.error("❌ Poor work–life balance detected.")
-            st.write("""
-            **Action plan:**  
-            • Aim for **7–8 hours** of sleep and reduce late-night screens.  
-            • Add **10–20 min** of light exercise or meditation daily.  
-            • Block **no-meeting / deep work** slots to reduce stress.  
-            • Spend time with family/friends to decompress.
-            """)
 
         if conf is not None:
             st.caption(f"Model confidence: **{conf:.1f}%**")
 
     except Exception as e:
         st.error(f"⚠️ Prediction failed: {e}")
-
 
