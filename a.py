@@ -61,41 +61,33 @@ x_input = pd.DataFrame([row]).reindex(columns=feature_order, fill_value=1)
 # ---------- predict ----------
 # ---------- predict ----------
 # ---------- predict ----------
+# ---------- predict ----------
 if st.button("Predict"):
     try:
-        st.write("🧩 Model Input Data:")
-        st.dataframe(x_input)
-
-        # Make prediction
+        # ---------- Make prediction ----------
         pred_raw = model.predict(x_input)
-        st.write(f"🔍 Raw prediction output from model: {pred_raw}")
-
         pred = pred_raw[0]
 
-        # --- Fix incorrect label encoding ---
-        # Your model returns numeric classes (0, 1, 2)
+        # ---------- Fix label encoding ----------
         label_map = {0: "Poor", 1: "Moderate", 2: "Balanced"}
 
+        # Convert numeric output to readable label
         if isinstance(pred, (int, float)):
-            pred = label_map.get(int(pred), "Unknown")
+            pred_label = label_map.get(int(pred), "Unknown")
         else:
-            pred = str(pred).strip().capitalize()
+            pred_label = str(pred).strip().capitalize()
 
-        st.write(f"✅ Final interpreted label after mapping: {pred}")
-
-        # Probability confidence
+        # ---------- Probability confidence ----------
+        conf = None
         if hasattr(model, "predict_proba"):
             proba = model.predict_proba(x_input)
-            st.write(f"📊 Prediction probabilities: {proba}")
             conf = float(np.max(proba) * 100)
-        else:
-            conf = None
 
+        # ---------- Display Result ----------
         st.markdown("---")
         st.subheader("Result")
 
-        # ✅ Output message based on corrected prediction
-        if pred == "Balanced":
+        if pred_label == "Balanced":
             st.success("✅ Great! You have an excellent work–life balance.")
             st.write("""
             **Keep it up:**  
@@ -103,7 +95,8 @@ if st.button("Predict"):
             • Keep boundaries between work and personal time.  
             • Do a quick weekly check-in to keep balance steady.
             """)
-        elif pred == "Moderate":
+
+        elif pred_label == "Moderate":
             st.warning("⚖️ You’re managing okay, but there’s room to improve.")
             st.write("""
             **Try this:**  
@@ -111,7 +104,8 @@ if st.button("Predict"):
             • Schedule one enjoyable activity daily (walk, music, hobby).  
             • Protect a small window for family/social time.
             """)
-        elif pred == "Poor":
+
+        elif pred_label == "Poor":
             st.error("❌ Poor work–life balance detected.")
             st.write("""
             **Action plan:**  
@@ -120,14 +114,17 @@ if st.button("Predict"):
             • Block **no-meeting / deep work** slots to reduce stress.  
             • Spend time with family/friends to decompress.
             """)
-        else:
-            st.warning(f"⚠️ Unexpected label '{pred}' received — please verify your model output.")
 
+        else:
+            st.warning("⚠️ Unexpected prediction result — please verify your model output.")
+
+        # ---------- Confidence Display ----------
         if conf is not None:
             st.caption(f"Model confidence: **{conf:.1f}%**")
 
     except Exception as e:
         st.error(f"⚠️ Prediction failed: {e}")
+
 
 
 
